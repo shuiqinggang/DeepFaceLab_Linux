@@ -1,0 +1,1594 @@
+Changelog 0.96.2:
+
+1786: [Bug] MacOS: Space setting - http://newsgroup.xnview.com/viewtopic.php?f=95&t=40310
+1785: [Bug] MacOS: Dark theme - http://newsgroup.xnview.com/viewtopic.php?f=79&t=40381
+1784: [Bug] MacOS: Problems in fullscreen - http://newsgroup.xnview.com/viewtopic.php?f=62&t=40342
+1783: [Bug] Codepage for embedded comment in 'Info'
+1782: [Bug] CSS style not working in 'Info' - http://newsgroup.xnview.com/viewtopic.php?f=62&t=40351
+1781: [Bug] Crash on XCF - http://newsgroup.xnview.com/viewtopic.php?f=62&t=40000
+1780: [Bug] Codec for embedded comment
+1779: [Bug] Batch convert: 'Same as original' no more here - http://newsgroup.xnview.com/viewtopic.php?f=62&t=40333
+1778: [Bug] Batch convert: Wrong counting of read-only files - http://newsgroup.xnview.com/viewtopic.php?f=79&t=40316
+1777: [Bug] 'Convert into' doesn't keep metadata
+1776: [Bug] {Categories} not correct - http://newsgroup.xnview.com/viewtopic.php?f=82&t=40278
+
+
+Changelog 0.96.1:
+
+1775: [New] Batch convert: 'save log' menu - http://newsgroup.xnview.com/viewtopic.php?t=40250
+1772: [New] Batch convert: Extensions for hot folders - http://newsgroup.xnview.com/viewtopic.php?t=39838
+1761: [New] Search: restore last search
+1746: [New] Search: in pathname - http://newsgroup.xnview.com/viewtopic.php?t=38591
+1774: [Bug] Message if catalog or metadata exporting is disabled - http://newsgroup.xnview.com/viewtopic.php?t=40139
+1773: [Bug] Crash when load animated GIF & save as jpeg
+1771: [Bug] Batch convert: output format x2 - http://newsgroup.xnview.com/viewtopic.php?t=40244
+1770: [Bug] Paint: Wrong tab by default - http://newsgroup.xnview.com/viewtopic.php?t=40297
+1769: [Bug] Batch convert: resize by 'Height' ignore value - http://newsgroup.xnview.com/viewtopic.php?t=40190
+1767: [Bug] Open filelist & UTF8 - http://newsgroup.xnview.com/viewtopic.php?t=40275
+1766: [Bug] Some thumbnails not loading - http://newsgroup.xnview.com/viewtopic.php?t=40277
+1765: [Bug] Search: Catalog & 'base path' - http://newsgroup.xnview.com/viewtopic.php?t=40190
+1764: [Bug] Batch convert: Crash with 'levels' - http://newsgroup.xnview.com/viewtopic.php?t=40252
+1763: [Bug] Thumbnail Labels not updated after changing category - http://newsgroup.xnview.com/viewtopic.php?t=40147
+1762: [Bug] After a file copy, thumbnail not displayed - http://newsgroup.xnview.com/viewtopic.php?t=39423
+1630: [Bug] Resize image/canvas presets ignore 'keep ratio' setting - http://newsgroup.xnview.com/viewtopic.php?t=38581
+1760: [Bug] F11 in browser + Alt+F4 crash - http://newsgroup.xnview.com/viewtopic.php?t=40194
+1759: [Bug] Embedded thumbnail not rebuilt for JPEG
+1758: [Bug] Wrong info - http://newsgroup.xnview.com/viewtopic.php?t=40178
+1757: [Bug] 'Info' & spaces - http://newsgroup.xnview.com/viewtopic.php?t=40170
+1756: [Bug] Unicode lepton files - http://newsgroup.xnview.com/viewtopic.php?t=40159
+1755: [Bug] Some WebP can't be loaded
+
+
+Changelog 0.96:
+
+1752: [New] AVIF support - http://newsgroup.xnview.com/viewtopic.php?t=38649
+1750: [New] Experimental 'Fit window to image' - http://newsgroup.xnview.com/viewtopic.php?t=40137
+1747: [New] Search: category contains/does not contain/is
+1746: [New] Search: in pathname - http://newsgroup.xnview.com/viewtopic.php?t=38591
+1739: [New] Capture: Hide Xn - http://newsgroup.xnview.com/viewtopic.php?t=39511
+1735: [New] Compare: shortcuts - http://newsgroup.xnview.com/viewtopic.php?t=39844
+1733: [New] Paste keep ratio - http://newsgroup.xnview.com/viewtopic.php?t=39779
+1727: [New] Show info always visible - http://newsgroup.xnview.com/viewtopic.php?t=39490
+1726: [New] Batch convert: 'Close after conversion' - http://newsgroup.xnview.com/viewtopic.php?t=39403
+1724: [New] Paste special - http://newsgroup.xnview.com/viewtopic.php?t=39572
+1721: [New] Paint: Background color for Text - http://newsgroup.xnview.com/viewtopic.php?t=39889
+1720: [New] 'New image' in image mode - http://newsgroup.xnview.com/viewtopic.php?t=39942
+1719: [New] Copy/Paste GPS data - http://newsgroup.xnview.com/viewtopic.php?t=36962
+1718: [New] Width/Height in mm placeholder - http://newsgroup.xnview.com/viewtopic.php?t=39847
+1717: [New] Batch Convert: Numeric numerator + output filename available in "Text" - http://newsgroup.xnview.com/viewtopic.php?t=39996
+1714: [New] Batch convert: White balance
+1754: [Bug] Move file & excluded folder - http://newsgroup.xnview.com/viewtopic.php?t=38426
+1753: [Bug] Save a screenshot, statusbar not updated
+1751: [Bug] MacOS: Translation of standard buttons
+1749: [Bug] Rename & companion file - http://newsgroup.xnview.com/viewtopic.php?t=39613
+1748: [Bug] Not possible to overwrite embedded thumbnail on some JPEG
+1745: [Bug] Rename field not visible in thumbnail view mode - http://newsgroup.xnview.com/viewtopic.php?t=39514
+1744: [Bug] Maximum view tab not work - http://newsgroup.xnview.com/viewtopic.php?t=39536
+1743: [Bug] Auto Correct doesn't work correct-ly - http://newsgroup.xnview.com/viewtopic.php?t=39709
+1742: [Bug] Search Similar: can't close dialog - http://newsgroup.xnview.com/viewtopic.php?t=39314
+1741: [Bug] Import: aae not copied - http://newsgroup.xnview.com/viewtopic.php?t=38795
+1740: [Bug] {File type} place holder - http://newsgroup.xnview.com/viewtopic.php?t=39272
+1738: [Bug] Transfer: Multiple lines - http://newsgroup.xnview.com/viewtopic.php?t=39875
+1737: [Bug] Batch rename: spacing between columns - http://newsgroup.xnview.com/viewtopic.php?t=39874
+1736: [Bug] Open second image & fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=39676
+1734: [Bug] "Properties" column shows incorrect # of colors - http://newsgroup.xnview.com/viewtopic.php?t=39894
+1732: [Bug] Compare: close view - http://newsgroup.xnview.com/viewtopic.php?t=39819
+1731: [Bug] Compare: Cannot turn off "Confirm file delete" - http://newsgroup.xnview.com/viewtopic.php?t=39870
+1730: [Bug] Windows taskbar text - http://newsgroup.xnview.com/viewtopic.php?t=39826
+1729: [Bug] Placeholder & Current date - http://newsgroup.xnview.com/viewtopic.php?t=39790
+1728: [Bug] Tooltips on category - http://newsgroup.xnview.com/viewtopic.php?t=39667
+1725: [Bug] GPS in detail view - http://newsgroup.xnview.com/viewtopic.php?t=39686
+1723: [Bug] File Listing: Append to file - http://newsgroup.xnview.com/viewtopic.php?t=39797
+1722: [Bug] Unknown file info not shown in toolbar - http://newsgroup.xnview.com/viewtopic.php?t=40091
+1716: [Bug] Image viewer slow with big folder - http://newsgroup.xnview.com/viewtopic.php?t=40012
+1715: [Bug] Slideshow: window doesn't close
+1713: [Bug] Customized format text color not used in 'details'
+1712: [Bug] Cut and paste files on selected folder can delete original files - http://newsgroup.xnview.com/viewtopic.php?t=40053
+1711: [Bug] Film simulation crash
+1710: [Bug] Windows: if drive letter is lower case in pathname, duplicate entry in catalog
+1709: [Bug] MacOSX: Folder without subfolder can have arrow to expand
+1708: [Bug] Sharpen setting not used for folder's thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=39916
+1707: [Bug] Multiple spaces in Info view - http://newsgroup.xnview.com/viewtopic.php?t=39881
+
+
+Changelog 0.95:
+
+1706: [New] Qt 5.12.6
+
+
+Changelog 0.94.3:
+
+1705: [New] Batch convert - 'Transparent color'
+1704: [Bug] Font size in Fusion theme - http://newsgroup.xnview.com/viewtopic.php?t=39872
+1703: [Bug] EXIF user comment - http://newsgroup.xnview.com/viewtopic.php?t=39873
+
+
+Changelog 0.94.2:
+
+1700: [New] 'Remove alpha' - http://newsgroup.xnview.com/viewtopic.php?t=39592
+1694: [New] Video date - http://newsgroup.xnview.com/viewtopic.php?t=39739
+1702: [Bug] GS 9.50 un*x - http://newsgroup.xnview.com/viewtopic.php?t=39753
+1701: [Bug] zoom field keep focus - http://newsgroup.xnview.com/viewtopic.php?&t=39627
+1699: [Bug] Thumbnails not loaded at startup - http://newsgroup.xnview.com/viewtopic.php?t=39754
+1698: [Bug] Companion files deleted in edit mode, setting not used - http://newsgroup.xnview.com/viewtopic.php?t=39587
+1697: [Bug] Categories not updated if file (IPTC) modified outside - http://newsgroup.xnview.com/viewtopic.php?t=39546
+1696: [Bug] New files, no metadata - http://newsgroup.xnview.com/viewtopic.php?t=39690
+1695: [Bug] Zoom field steals focus - http://newsgroup.xnview.com/viewtopic.php?t=39692
+1693: [Bug] Compare similar content very slow - http://newsgroup.xnview.com/viewtopic.php?t=39695
+1692: [Bug] Linux: Not all datas from ExifTools - http://newsgroup.xnview.com/viewtopic.php?t=39701
+
+
+Changelog 0.94.1:
+
+1691: [Bug] Problem with Ghostscript 9.50
+1690: [Bug] Use file date if no exif date setting (useFileDateWhenNoExif in xnview.ini)
+1689: [Bug] Browse categories result in fullscreen not possible - http://newsgroup.xnview.com/viewtopic.php?t=39638
+1688: [Bug] Non image files not shown in browser
+1687: [Bug] 'Edit IPTC' doesn't write fields - http://newsgroup.xnview.com/viewtopic.php?t=39620
+
+
+Changelog 0.94:
+
+1679: [New] Sort by EXIF date modified - http://newsgroup.xnview.com/viewtopic.php?t=39345
+1676: [New] SQLite 3.29.0
+1670: [New] Offset tool - http://newsgroup.xnview.com/viewtopic.php?t=37552
+1669: [New] Unsharp Mask
+1619: [New] Webp: Presets
+1613: [New] Use Windows HEIC WIC decoder/encoder - http://newsgroup.xnview.com/viewtopic.php?t=39108
+1612: [New] JPEG-XR export does not work - http://newsgroup.xnview.com/viewtopic.php?t=38401
+1611: [New] Batch convert: Reorder items - http://newsgroup.xnview.com/viewtopic.php?t=38798
+1606: [New] Automatic crop: edges selection - http://newsgroup.xnview.com/viewtopic.php?t=38015
+1600: [New] DDS Bcn compression
+1599: [New] Libjpeg 2.0.3
+1596: [New] Template - part of text
+1595: [New] Transfer: Copy data to Metadata
+1593: [New] 'Go to x,y location'
+1581: [New] XIM format - read support
+1570: [New] RAW color matrix setting
+1598: [New] Similar: 'only folder' setting
+1657: [New] Canvas resize: position matrix - http://newsgroup.xnview.com/viewtopic.php?t=38776
+1656: [New] Print selection - http://newsgroup.xnview.com/viewtopic.php?t=38753
+1655: [New] Setting to start with always same size - http://newsgroup.xnview.com/viewtopic.php?t=38723
+1654: [New] Filter: 'Apply' to validate current filter - http://newsgroup.xnview.com/viewtopic.php?t=38724
+1653: [New] Edit IPTC: double click to add History item - http://newsgroup.xnview.com/viewtopic.php?t=38709
+1649: [New] Edit IPTC: open lastest tab setting - http://newsgroup.xnview.com/viewtopic.php?t=38694
+1648: [New] Folder always sorted alphabetically setting - http://newsgroup.xnview.com/viewtopic.php?t=35126
+1646: [New] Edit IPTC: in view mode, write added - http://newsgroup.xnview.com/viewtopic.php?t=38713
+1644: [New] Desaturate - http://newsgroup.xnview.com/viewtopic.php?t=38381
+1642: [New] Curves: Buttons instead combobox - http://newsgroup.xnview.com/viewtopic.php?t=38489
+1639: [New] Contact Sheet: Background image - http://newsgroup.xnview.com/viewtopic.php?t=38550
+1638: [New] Custom params for toolbar's command - http://newsgroup.xnview.com/viewtopic.php?t=38396
+1636: [New] Quick search in description - http://newsgroup.xnview.com/viewtopic.php?t=38495
+1634: [New] Slideshow: in .sld, you can add folder (must ends with '\' or '/') - http://newsgroup.xnview.com/viewtopic.php?t=38502
+1633: [New] Load slideshow .sld from XnView Classic - http://newsgroup.xnview.com/viewtopic.php?t=38502
+1629: [New] Create new image - http://newsgroup.xnview.com/viewtopic.php?t=38577
+1686: [Bug] Batch Convert: Output path - http://newsgroup.xnview.com/viewtopic.php?t=39503
+1685: [Bug] webP & metadata settings - http://newsgroup.xnview.com/viewtopic.php?t=39479
+1684: [Bug] Categories added on TIFF - http://newsgroup.xnview.com/viewtopic.php?t=39375
+1683: [Bug] PAM CMYK1682: [Bug] Replace color - http://newsgroup.xnview.com/viewtopic.php?t=39012
+1681: [Bug] Batch Convert: ICC not kept for PNG - http://newsgroup.xnview.com/viewtopic.php?t=39376
+1680: [Bug] Non image files displayed before filtering - http://newsgroup.xnview.com/viewtopic.php?t=39358
+1678: [Bug] BMP - http://newsgroup.xnview.com/viewtopic.php?t=39313
+1677: [Bug] Catalog - rebuild thumbnails dead lock - http://newsgroup.xnview.com/viewtopic.php?t=39275
+1675: [Bug] PSD fix alpha channel setting - http://newsgroup.xnview.com/viewtopic.php?t=39254
+1674: [Bug] "return to browser" in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=39015
+1673: [Bug] Resize IPTC dialog - http://newsgroup.xnview.com/viewtopic.php?t=39247
+1672: [Bug] Companion files not copied/moved with Copy/Move to - http://newsgroup.xnview.com/viewtopic.php?t=39164
+1671: [Bug] Category search pane - http://newsgroup.xnview.com/viewtopic.php?t=37779
+1668: [Bug] Browser: EXIF rotation (field) doesn't update timestamp - http://newsgroup.xnview.com/viewtopic.php?t=38866
+1667: [Bug] Change color depth & background color - http://newsgroup.xnview.com/viewtopic.php?t=37996
+1666: [Bug] Catalog relocate - http://newsgroup.xnview.com/viewtopic.php?t=37644
+1665: [Bug] 'Match all' + rating + categories - http://newsgroup.xnview.com/viewtopic.php?t=38115
+1664: [Bug] Random quick slideshow shows at most ~32,000 images - http://newsgroup.xnview.com/viewtopic.php?t=38721
+1663: [Bug] Wrong focus after returning from fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=37727
+1662: [Bug] Edit mode: File size displayed after rename - http://newsgroup.xnview.com/viewtopic.php?t=38432
+1661: [Bug] Fusion dark theme & detail view - http://newsgroup.xnview.com/viewtopic.php?t=38022
+1660: [Bug] Fusion dark theme - http://newsgroup.xnview.com/viewtopic.php?t=39122
+1659: [Bug] Batch convert: Use CPU Core's - limited to last used setting - http://newsgroup.xnview.com/viewtopic.php?t=38669
+1658: [Bug] Maximized to Fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=38700
+1652: [Bug] Edit IPTC: 'Write' & 'don't load fields' - http://newsgroup.xnview.com/viewtopic.php?t=38237
+1651: [Bug] Search: mixing base path and parent folder - http://newsgroup.xnview.com/viewtopic.php?t=31366
+1650: [Bug] Not possible to change shortcut for capture/import clipboard/scan - http://newsgroup.xnview.com/viewtopic.php?t=38673
+1647: [Bug] Switching printers lets XNView MP ignore margin settings - http://newsgroup.xnview.com/viewtopic.php?t=38509
+1645: [Bug] Batch rename: Not possible to use arrow to select item - http://newsgroup.xnview.com/viewtopic.php?t=37022
+1643: [Bug] File listing: Invalid field name with date - http://newsgroup.xnview.com/viewtopic.php?t=38483
+1641: [Bug] Compare: Thumbnails not always refreshed at startup - http://newsgroup.xnview.com/viewtopic.php?t=37955
+1640: [Bug] System context menu on folder tree & DPI - http://newsgroup.xnview.com/viewtopic.php?t=38470
+1637: [Bug] Background color of Category Sets & Actions with Dark Fusion theme - http://newsgroup.xnview.com/viewtopic.php?t=38594
+1635: [Bug] 'Show all files (recursive)" in menu - http://newsgroup.xnview.com/viewtopic.php?t=38610
+1632: [Bug] Batch conversion uses disabled checkbox setting - http://newsgroup.xnview.com/viewtopic.php?t=39209
+1631: [Bug] Rename folder not possible if browsed before
+1630: [Bug] Resize image/canvas presets ignore 'keep ratio' setting - http://newsgroup.xnview.com/viewtopic.php?t=38581
+1628: [Bug] Windows: Unable to paste on root drive - http://newsgroup.xnview.com/viewtopic.php?t=38264
+1627: [Bug] MacOSX: Multiple instance not possible - http://newsgroup.xnview.com/viewtopic.php?t=39177
+1626: [Bug] Problem when renaming/moving files with unicode in catalog - http://newsgroup.xnview.com/viewtopic.php?t=36410
+1625: [Bug] WebP: target file size not used - http://newsgroup.xnview.com/viewtopic.php?t=39155
+1624: [Bug] Capture: XnView window must not be restored after a capture (multiple capture)
+1623: [Bug] PSD: IPTC no correctly written
+1622: [Bug] Batch Convert: Resize - Longest/shortest & percent
+1621: [Bug] TIFF - http://newsgroup.xnview.com/viewtopic.php?t=38180
+1620: [Bug] Custom labels & validation - http://newsgroup.xnview.com/viewtopic.php?t=39128
+1618: [Bug] Replace dialog: filesize is missing - http://newsgroup.xnview.com/viewtopic.php?t=39138
+1617: [Bug] PSD: Error when writing metadata - http://newsgroup.xnview.com/viewtopic.php?t=39137
+1616: [Bug] Can't save 1bit into webp - http://newsgroup.xnview.com/viewtopic.php?t=39104
+1615: [New] Compare: Tabs - http://newsgroup.xnview.com/viewtopic.php?t=38746
+1614: [Bug] Canvas Resize: Background color not saved
+1610: [Bug] Compare: color labels - http://newsgroup.xnview.com/viewtopic.php?t=38744
+1609: [Bug] Missing time total/elapsed for video playing
+1608: [Bug] Video thumbnail creation locks - http://newsgroup.xnview.com/viewtopic.php?t=38045
+1607: [Bug] Clipboard at exit - http://newsgroup.xnview.com/viewtopic.php?t=25527
+1604: [Bug] Search: not using sidecar - http://newsgroup.xnview.com/viewtopic.php?t=38967
+1603: [Bug] Registry not correctly detected - http://newsgroup.xnview.com/viewtopic.php?t=39014
+1602: [Bug] Slow GIF playback - http://newsgroup.xnview.com/viewtopic.php?t=39005
+1601: [Bug] {MPixel} format - http://newsgroup.xnview.com/viewtopic.php?t=39016
+1597: [Bug] Import&Sort: EXIF date always used in filename template
+1594: [Bug] Crash {META:LensID}
+1592: [Bug] Batch convert + "Use CPU Cores" very slow to start with 30,000 images - http://newsgroup.xnview.com/viewtopic.php?t=38943
+1591: [Bug] Height ignored when resize 'fill' & keep ratio off - http://newsgroup.xnview.com/viewtopic.php?t=38921
+1590: [Bug] Canvas resize - Relative - 'mm' doesn't work - http://newsgroup.xnview.com/viewtopic.php?t=38924
+1589: [Bug] Crash in curve - http://newsgroup.xnview.com/viewtopic.php?t=38903
+1588: [Bug] CVE-2019-12151
+1587: [Bug] Remote files must not be added to recent files
+1586: [Bug] Filter with rating AND color label doesnt work - http://newsgroup.xnview.com/viewtopic.php?t=38890
+1585: [Bug] Categories partly updated after 'Edit IPTC' - http://newsgroup.xnview.com/viewtopic.php?t=38878
+1584: [New] Batch convert: Hot folders without auto processing - http://newsgroup.xnview.com/viewtopic.php?t=38825
+1583: [Bug] Batch convert: Preview not updated - http://newsgroup.xnview.com/viewtopic.php?t=38856
+1582: [Bug] Thumbnail for FLV not created - http://newsgroup.xnview.com/viewtopic.php?t=38867
+1580: [Bug] Paste clipboard problems - http://newsgroup.xnview.com/viewtopic.php?t=38846
+1579: [Bug] SPACE can't be assigned - http://newsgroup.xnview.com/viewtopic.php?t=38755
+1578: [Bug] Folder thumbnail not created in the right order - http://newsgroup.xnview.com/viewtopic.php?t=38763
+1577: [Bug] If thumbnail for video is disabled, slow when checking files
+1576: [Bug] Crash on rotate 180 on binary image (w=1305)
+1575: [Bug] 8bits+transparency => 32bits problem
+1574: [Bug] Rename overwrite file if exist (usb key)
+1573: [Bug] Dead lock on ppt
+1572: [Bug] No icon for .url - http://newsgroup.xnview.com/viewtopic.php?t=38743
+1571: [Bug] iThmb format
+1569: [Bug] Jxr Half - http://newsgroup.xnview.com/viewtopic.php?t=38679
+1568: [Bug] Import categories from Windows Live Fotogallery - http://newsgroup.xnview.com/viewtopic.php?t=38612
+
+
+Changelog 0.93.1:
+
+1567: [Bug] Print only first page - http://newsgroup.xnview.com/viewtopic.php?t=38651
+1566: [Bug] HEIC on Mac
+1565: [Bug] Stars on preview don't change rating
+1564: [Bug] Error reading TGA 16bits RLE
+1563: [Bug] Exit Artist shown on NEF file
+1562: [Bug] Prev/Next not working with two or more opened tabs - http://newsgroup.xnview.com/viewtopic.php?t=38523
+1561: [Bug] Problem to move video files - http://newsgroup.xnview.com/viewtopic.php?t=38488
+1560: [Bug] Fullscreen view mode - Focus on image lost after edit - http://newsgroup.xnview.com/viewtopic.php?t=38490
+1559: [Bug] Contact Sheet: Folder not restored - http://newsgroup.xnview.com/viewtopic.php?t=38570
+1558: [Bug] SPACE key settings - http://newsgroup.xnview.com/viewtopic.php?t=38478
+1557: [Bug] WebP 32bits & metadata - http://newsgroup.xnview.com/viewtopic.php?t=38514
+1556: [Bug] XCF (floating pixel) crash
+1531: [Bug] Linux move to trash - http://newsgroup.xnview.com/viewtopic.php?t=37989
+1555: [Bug] Windows Save dialog, Most used formats no more at top
+
+
+Changelog 0.93:
+
+1507: [New] Space key for next picture
+1506: [New] 'Add selection to Favorites' - http://newsgroup.xnview.com/viewtopic.php?t=37666
+1505: [New] After 'save as', use output filename setting
+1504: [New] Format option button in save dialog (Windows only)
+1500: [New] SHIFT/CTRL to constraint drawing line horizontally/vertically
+1543: [New] ScrollbarValue setting - http://newsgroup.xnview.com/viewtopic.php?t=33419
+1540: [New] Selection grid setting - http://newsgroup.xnview.com/viewtopic.php?t=38270
+1539: [New] [General/scanDone] to close or not TWAIN dialog after scan
+1534: [New] Import&Sort: Video subfolder - http://newsgroup.xnview.com/viewtopic.php?t=37976
+0076: [New] Batch Processing running on multiple cores - http://newsgroup.xnview.com/viewtopic.php?t=24355
+1524: [New] WEBP EXIF/XMP support
+1523: [New] OpenJPEG updated
+1522: [New] WEBP updated
+1516: [New] Settings to choose color label - http://newsgroup.xnview.com/viewtopic.php?t=38191
+1515: [New] Ratio always > 0, settings added - http://newsgroup.xnview.com/viewtopic.php?t=38107
+1514: [New] -clipaste
+1553: [Bug] IPTC dialog: Crash 'insert from' in Edit mode
+1552: [Bug] Capture (rectangle) with hotkey returns desktop
+1551: [Bug] Batch convert: Description not used in 'Add Text'
+1550: [Bug] Slideshow: Audio file not loaded from .sld - http://newsgroup.xnview.com/viewtopic.php?t=38427
+1549: [Bug] Import&Sort: Image with no EXIF date are not imported
+1548: [Bug] Batch Convert: 'Keep structure' & 'Keep parent' can't convert on same root partition
+1547: [Bug] Resize presets not correctly saved/restored - http://newsgroup.xnview.com/viewtopic.php?t=38351
+1546: [Bug] Crash when renaming folder in folder tree - http://newsgroup.xnview.com/viewtopic.php?t=38380
+1545: [Bug] Batch convert: Delete icon not enabled after saving script
+1544: [Bug] Batch convert: Small/Large thumbnails setting not restored
+1542: [Bug] XnConvert: 'Delete original' setting not saved - http://newsgroup.xnview.com/viewtopic.php?t=38355
+1541: [Bug] ICNS with JPEG2000 icon - http://newsgroup.xnview.com/viewtopic.php?t=38363
+1538: [Bug] Seek video by clicking on time slider bar - http://newsgroup.xnview.com/viewtopic.php?t=35144
+1537: [Bug] XCF 2.10
+1536: [Bug] Curves: Area to move control point too small - http://newsgroup.xnview.com/viewtopic.php?t=38336
+1535: [Bug] key navigation disabled after crop - http://newsgroup.xnview.com/viewtopic.php?t=38294
+1533: [Bug] Paint: Text not saved - http://newsgroup.xnview.com/viewtopic.php?t=37691
+1532: [Bug] Contact Sheet: no top margin - http://newsgroup.xnview.com/viewtopic.php?t=37617
+0756: [Bug] Print custom size - http://newsgroup.xnview.com/viewtopic.php?t=32327
+1531: [Bug] Linux move to trash - http://newsgroup.xnview.com/viewtopic.php?t=37989
+1530: [Bug] Freeze when creating thumbnail for small video files - http://newsgroup.xnview.com/viewtopic.php?t=38045
+1529: [Bug] DPX 8bits load/save - http://newsgroup.xnview.com/viewtopic.php?t=38159
+1528: [Bug] Language mix in dialogs - http://newsgroup.xnview.com/viewtopic.php?t=38096
+1527: [Bug] Batch Convert Drag&Drop does not work when listview is enabled - http://newsgroup.xnview.com/viewtopic.php?t=38266
+1526: [Bug] Open a PDF can show an error - http://newsgroup.xnview.com/viewtopic.php?t=38249
+1525: [Bug] Can't drag in browser mode if there are marked files - http://newsgroup.xnview.com/viewtopic.php?t=38227
+1521: [Bug] XCF dead lock
+1520: [Bug] Context menu must not be shown on folder in favorite
+1519: [Bug] Dead lock on mpa/m4a files - http://newsgroup.xnview.com/viewtopic.php?t=38224
+1517: [Bug] Problem with icons generation, settings added (was causing some crash on older QT)
+1513: [Bug] Problems when searching with 'base path'
+1512: [Bug] MacOSX: UI problem with video files
+1511: [Bug] IPTC keywords sorted in details view - http://newsgroup.xnview.com/viewtopic.php?t=38011
+1510: [Bug] .lnk can't be viewed - http://newsgroup.xnview.com/viewtopic.php?t=37995
+1509: [Bug] Batch Rename: same name but different extension - http://newsgroup.xnview.com/viewtopic.php?t=38020
+1508: [Bug] Arrow keys not working in list view
+1503: [Bug] Slideshow: use transition not checked after loading .sld
+1502: [Bug] Batch convert: Clear input file don't work anymore
+1501: [Bug] Slideshow crash
+1499: [Bug] Searching by Image Width and Image Height Returns 0 Results - http://newsgroup.xnview.com/viewtopic.php?t=38100
+1498: [Bug] Batch Convert: 'Source folder' not selected after load .xbs - http://newsgroup.xnview.com/viewtopic.php?t=38057
+1491: [Bug] Load & save image with ICC profile doesn't change icc (sRGB) - http://newsgroup.xnview.com/viewtopic.php?t=37755
+1497: [Bug] Bad decoding of embedded comment
+1496: [Bug] Crash when renaming Favorites
+
+
+Changelog 0.92:
+
+1495: [Bug] Open problem - http://newsgroup.xnview.com/viewtopic.php?t=37920
+1495: [Bug] Switch mode - http://newsgroup.xnview.com/viewtopic.php?t=37916
+
+
+Changelog 0.91:
+
+1487: [New] PDF v1.4 output
+1486: [New] Sqlite 2.24.0
+1482: [New] Audio with slideshow - http://newsgroup.xnview.com/viewtopic.php?t=37463
+1387: [New] Ratio field - http://newsgroup.xnview.com/viewtopic.php?t=37204
+1384: [New] Batch convert: Back color added to convert 32bits into 24bits - http://newsgroup.xnview.com/viewtopic.php?t=37147
+1391: [New] Autocomplete in copy/move dialog - http://newsgroup.xnview.com/viewtopic.php?t=37257
+1478: [New] Join: Fit width or height
+1475: [New] Batch resize by width or height - http://newsgroup.xnview.com/viewtopic.php?t=36864
+1471: [New] PackJPG format (read)
+1470: [New] Lepton format (read) added
+1467: [New] Companion files handling - http://newsgroup.xnview.com/viewtopic.php?t=35508
+1465: [New] HPI alpha channel supported
+1464: [New] Custom title bar in browse mode - http://newsgroup.xnview.com/viewtopic.php?t=37446
+1457: [New] Change timestamp: Increment at each file - http://newsgroup.xnview.com/viewtopic.php?t=37416
+1456: [New] Edit colormap - http://newsgroup.xnview.com/viewtopic.php?t=37217
+1452: [New] QtAV used on Linux/Mac for video playing/thumbnailing
+1454: [New] Message before to quit - http://newsgroup.xnview.com/viewtopic.php?t=37380
+1447: [New] More options for RAW
+1439: [New] KRITA support - http://newsgroup.xnview.com/viewtopic.php?t=33385
+1433: [New] 'Use Alpha channel' not remembered - http://newsgroup.xnview.com/viewtopic.php?t=34644
+1432: [New] Search: Select pathname field - http://newsgroup.xnview.com/viewtopic.php?t=37086
+1441: [New] Tooltips when drawing selection - http://newsgroup.xnview.com/viewtopic.php?t=37259
+1427: [New] Recent quick search list - http://newsgroup.xnview.com/viewtopic.php?t=37201
+1425: [New] Resize dialog - http://newsgroup.xnview.com/viewtopic.php?t=36772
+1409: [New] Relative path in .sld - http://newsgroup.xnview.com/viewtopic.php?t=37181
+1406: [New] Information for Audio/Video file - http://newsgroup.xnview.com/viewtopic.php?t=35843
+1405: [New] Sharpen in Resize dialog
+1404: [New] Autoskew in edit mode
+1400: [New] IPTC dialog in view mode - http://newsgroup.xnview.com/viewtopic.php?t=34630
+1399: [New] Setting to create descript.ion in UTF8
+1493: [Bug] ICC support in compare - http://newsgroup.xnview.com/viewtopic.php?t=37808
+1492: [Bug] JPEG2000 YCC - http://newsgroup.xnview.com/viewtopic.php?t=37806
+1491: [Bug] Load & save image with ICC profile doesn't change icc (sRGB) - http://newsgroup.xnview.com/viewtopic.php?t=37755
+1490: [Bug] 'Crop, save & next' doesn't always save cropped image - http://newsgroup.xnview.com/viewtopic.php?t=37730
+1489: [Bug] Batch convert- automatic crop - http://newsgroup.xnview.com/viewtopic.php?t=37782
+1488: [Bug] When catalog is not used, can't save search
+1485: [Bug] Save 32bits as jpeg - http://newsgroup.xnview.com/viewtopic.php?t=37638
+1484: [Bug] Crash with 1x1 png - Thanks to Martin Orem of Binary House
+1483: [Bug] TIFF with JPEG compression - http://newsgroup.xnview.com/viewtopic.php?t=37585
+1481: [Bug] IPTC Edit: Object name not always modified on RAW - http://newsgroup.xnview.com/viewtopic.php?t=37441
+1480: [Bug] Deselecting by CTRL key - http://newsgroup.xnview.com/viewtopic.php?t=37486
+1479: [Bug] Batch convert: Problem when filename has $ character
+1477: [Bug] Embedded comment always written in utf8 - http://newsgroup.xnview.com/viewtopic.php?t=37497
+1476: [Bug] Batch convert: if 'delete original', steals focus - http://newsgroup.xnview.com/viewtopic.php?t=37328
+1474: [Bug] Batch Rename: First item no more selected - http://newsgroup.xnview.com/viewtopic.php?t=37297
+1473: [Bug] Dialog Edit curves: curve not visible if preview enabled - http://newsgroup.xnview.com/viewtopic.php?t=37487
+1472: [Bug] Crop unavailable until change crop area manually - http://newsgroup.xnview.com/viewtopic.php?t=37461
+1469: [Bug] Export: wepb quality widget too small - http://newsgroup.xnview.com/viewtopic.php?t=37482
+1468: [Bug] Slow when entering on a folder with a lot of files (icon create)
+1466: [Bug] Characters problem with exif label in view informations - http://newsgroup.xnview.com/viewtopic.php?t=37459
+1463: [Bug] Edit IPTC: no hierarchicalSubject written for RAW - http://newsgroup.xnview.com/viewtopic.php?t=37441
+1462: [Bug] Edit IPTC: EXIF:artist modified on RAW file - http://newsgroup.xnview.com/viewtopic.php?t=37441
+1461: [Bug] Long full path on windows 10 - http://newsgroup.xnview.com/viewtopic.php?t=36108
+1460: [Bug] Batch Convert: Hot folder, files not completly written, can't be readed - http://newsgroup.xnview.com/viewtopic.php?t=3743
+1459: [Bug] Error reading panorama image from S9 - http://newsgroup.xnview.com/viewtopic.php?t=37427
+1458: [Bug] Rounded value in batch resize - http://newsgroup.xnview.com/viewtopic.php?t=37451
+1455: [Bug] Filesize in Info not changed after save - http://newsgroup.xnview.com/viewtopic.php?t=37319
+1453: [Bug] Video thumbnail not correctly build by QtAv
+1451: [Bug] Open image tab while in fullscreen on second monitor - http://newsgroup.xnview.com/viewtopic.php?t=35028
+1450: [Bug] PDF output on Linux - http://newsgroup.xnview.com/viewtopic.php?t=37376
+1449: [Bug] Batch convert: Preview 'after' not always loaded - http://newsgroup.xnview.com/viewtopic.php?t=37377
+1448: [Bug] All details on info pane are missing while Fullscreen preview is active - http://newsgroup.xnview.com/viewtopic.php?t=3658
+1446: [Bug] Join: Collage on non image files
+1445: [Bug] Batch Convert: ESC before end of process
+1444: [Bug] Grid settings are not saved - http://newsgroup.xnview.com/viewtopic.php?t=37363
+1443: [Bug] When selecting file without thumbnail, should create this one first - http://newsgroup.xnview.com/viewtopic.php?t=36704
+1442: [Bug] Folders in folder tree are expanded - http://newsgroup.xnview.com/viewtopic.php?t=36808
+1440: [Bug] Webm support
+1438: [Bug] Excluding folders in Catalog & copy files - http://newsgroup.xnview.com/viewtopic.php?t=36635
+1437: [Bug] Batch Convert: Hot folders & subdirectories - http://newsgroup.xnview.com/viewtopic.php?t=37338
+1436: [Bug] Included/excluded folder list - double entries possible - http://newsgroup.xnview.com/viewtopic.php?t=37345
+1435: [Bug] Slideshow order is not being restored on opening an .sld - http://newsgroup.xnview.com/viewtopic.php?t=37360
+1434: [Bug] Thumbnail and Image Orientation out of sync after Jpeg Lossless Rotate - http://newsgroup.xnview.com/viewtopic.php?t=36687
+1431: [Bug] Compare: thumbnails view size - http://newsgroup.xnview.com/viewtopic.php?t=36954
+1430: [Bug] EXIF Image width/height is not updated - http://newsgroup.xnview.com/viewtopic.php?t=36625
+1429: [Bug] Move shortcut of file - http://newsgroup.xnview.com/viewtopic.php?t=36971
+1428: [Bug] Name collision dialog uses old name on renaming - http://newsgroup.xnview.com/viewtopic.php?t=37084
+1426: [Bug] Ctrl+Right Click does not select the image - http://newsgroup.xnview.com/viewtopic.php?t=36951
+1424: [Bug] Wheel on preview change focus - http://newsgroup.xnview.com/viewtopic.php?t=36767
+1423: [Bug] Ctrl+Right Click unselects the image in detail view - http://newsgroup.xnview.com/viewtopic.php?t=36950
+1422: [Bug] Selection must be restored after undo - http://newsgroup.xnview.com/viewtopic.php?t=37102
+1421: [Bug] Rating/Label on folder always cleared - http://newsgroup.xnview.com/viewtopic.php?t=37269
+1420: [Bug] Selection with the keyboard controls is inconsistent - http://newsgroup.xnview.com/viewtopic.php?t=34297
+1419: [Bug] Duplicate video playback - http://newsgroup.xnview.com/viewtopic.php?t=35953
+1418: [Bug] Not responsive while opening image file - http://newsgroup.xnview.com/viewtopic.php?t=35057
+1417: [Bug] Wrong focus after returning from image tab - http://newsgroup.xnview.com/viewtopic.php?t=35964
+1416: [Bug] Image navigation pane shown on animated GIF - http://newsgroup.xnview.com/viewtopic.php?t=36012
+1415: [Bug] MacOSX: copy instead of move on same partition - http://newsgroup.xnview.com/viewtopic.php?t=35754
+1414: [Bug] Fixed ratio for selection and horizontal handler - http://newsgroup.xnview.com/viewtopic.php?t=36457
+1413: [Bug] PDF when viewing are not skipped if ghosctscript is not installed - http://newsgroup.xnview.com/viewtopic.php?t=35338
+1412: [Bug] Batch Convert: Delete original always use recycle bin - http://newsgroup.xnview.com/viewtopic.php?t=37132
+1411: [Bug] Thumbnail ratio - http://newsgroup.xnview.com/viewtopic.php?t=33725
+1410: [Bug] Batch Rename not possible on Movie - http://newsgroup.xnview.com/viewtopic.php?t=35923
+1401: [Bug] Modified date for OpenXML format changed when creating thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=37344
+1408: [Bug] Keys in slideshow - http://newsgroup.xnview.com/viewtopic.php?t=37181
+1407: [Bug] Favorites not sorted after adding one - http://newsgroup.xnview.com/viewtopic.php?t=37092
+1403: [Bug] Batch Rename: 'always added' not saved - http://newsgroup.xnview.com/viewtopic.php?t=37332
+1402: [Bug] Wrong thumbnail from catalog - http://newsgroup.xnview.com/viewtopic.php?t=33548
+1398: [Bug] Slow search on annotations - http://newsgroup.xnview.com/viewtopic.php?t=37295
+1397: [Bug] Annotation doesn't work, in slideshow - http://newsgroup.xnview.com/viewtopic.php?t=37300
+1396: [Bug] Freeze when clicking on .url - http://newsgroup.xnview.com/viewtopic.php?t=37289
+1395: [Bug] Windows default context menu use only 1 file - http://newsgroup.xnview.com/viewtopic.php?t=37287
+1394: [Bug] Export resize for NConvert - http://newsgroup.xnview.com/viewtopic.php?t=37278
+1393: [Bug] Thumbnail process on big files can't be interrupted - http://newsgroup.xnview.com/viewtopic.php?t=37182
+1390: [Bug] Cancel 'Edit Favorites path' - http://newsgroup.xnview.com/viewtopic.php?t=37100
+1389: [Bug] Print: Incorrect caption in picture collection - http://newsgroup.xnview.com/viewtopic.php?t=37274
+1388: [Bug] Directory locked after batch convert - http://newsgroup.xnview.com/viewtopic.php?t=37242
+1386: [Bug] Batch convert: keep folder and folder at root path
+1385: [Bug] Paint: b&w, 8bits colormap are converted with bad colors
+1383: [Bug] Batch convert: ICC convert doesn't work on 64bits version - http://newsgroup.xnview.com/viewtopic.php?t=37176
+1382: [Bug] Batch convert: extension is not changed - http://newsgroup.xnview.com/viewtopic.php?t=37165
+1381: [Bug] Image with alpha channel converted in JPEG - http://newsgroup.xnview.com/viewtopic.php?t=37147
+
+
+Changelog 0.90:
+
+1380: [Bug] Mosaic bug when using spacing - http://newsgroup.xnview.com/viewtopic.php?t=37069
+1379: [Bug] File format color - http://newsgroup.xnview.com/viewtopic.php?t=37045
+1378: [Bug] No message in Favorite menu if favorite doesn't exist - http://newsgroup.xnview.com/viewtopic.php?t=30769
+1377: [Bug] XMP not correctly written by IPTC dialog
+1376: [New] Open XML file thumbnail support - http://newsgroup.xnview.com/viewtopic.php?t=37031
+1375: [Bug] Slideshow: Bad image shown if click before end of animation
+1374: [New] File list thumbnails + detail view
+1373: [Bug] Split: Red grid not always visible - http://newsgroup.xnview.com/viewtopic.php?t=37012
+1372: [Bug] Paint: Line not dotted with arrow - http://newsgroup.xnview.com/viewtopic.php?t=37011
+1371: [Bug] Sometimes screenshot saved have 'read only' - http://newsgroup.xnview.com/viewtopic.php?t=36747
+1370: [Bug] Update catalog doesn't read sidecar anymore - http://newsgroup.xnview.com/viewtopic.php?t=36977
+1369: [New] Search on others XMP fields - http://newsgroup.xnview.com/viewtopic.php?t=36957
+1368: [Bug] 'create thumbnails for whole folder' - http://newsgroup.xnview.com/viewtopic.php?t=36961
+1367: [Bug] Setting to choose 'save changes' - http://newsgroup.xnview.com/viewtopic.php?t=36242
+1366: [Bug] Pan with Zoom setting - http://newsgroup.xnview.com/viewtopic.php?p=146522
+1365: [Bug] Draw Tool removes metadata - http://newsgroup.xnview.com/viewtopic.php?t=36216
+1364: [Bug] Can't undo in crop board - http://newsgroup.xnview.com/viewtopic.php?t=35858
+1363: [Bug] Show info button not toggled - http://newsgroup.xnview.com/viewtopic.php?t=36612
+1362: [Bug] Convert to jpg - filename with "_1" - http://newsgroup.xnview.com/viewtopic.php?t=36146
+1361: [Bug] PSD thumbnail pixelated - http://newsgroup.xnview.com/viewtopic.php?t=36213
+1360: [New] Setting to disable drag&drop custom order
+1359: [Bug] Ctrl+Right Click does not work on folders in the tree view - http://newsgroup.xnview.com/viewtopic.php?t=36952
+1358: [Bug] Eyedropper cannot take the color for the 2ndary color - http://newsgroup.xnview.com/viewtopic.php?t=36863
+1357: [New] Resize 150% option - http://newsgroup.xnview.com/viewtopic.php?t=36496
+1356: [Bug] Open .SLD - http://newsgroup.xnview.com/viewtopic.php?t=36953
+1355: [Bug] No trackpad move on MacOSX - http://newsgroup.xnview.com/viewtopic.php?t=36947
+
+
+Changelog 0.89:
+
+1352: [New] Curves adjustment
+1351: [New] Split - viewtopic.php?t=36813
+0689: [New] Slideshow
+1349: [New] Levels in Batch Convert
+1346: [New] IPTC/XMP can be edited on RAW files
+1345: [New] Windows default context menu by pressing CTRL key (thumbnails view)
+1344: [New] Recursive mode and Synchronize Browser - http://newsgroup.xnview.com/viewtopic.php?t=35236
+1332: [New] MegaPixels placeholder - http://newsgroup.xnview.com/viewtopic.php?t=35619
+1354: [Bug] Empty folders left after move operations - http://newsgroup.xnview.com/viewtopic.php?t=36862
+1353: [Bug] XMP sidecar not used loaded
+1350: [Bug] Create/File listing: wrong output if field contains carriage return - http://newsgroup.xnview.com/viewtopic.php?t=36789
+1348: [Bug] Current file not good after select tagged files - http://newsgroup.xnview.com/viewtopic.php?t=36735
+1347: [Bug] MacOSX: saving doesn't use correct format
+1343: [Bug] Category Sets not disabled when no selection
+1342: [Bug] Bold text must be used in History/Suggested sets panel - http://newsgroup.xnview.com/viewtopic.php?t=36666
+1341: [Bug] Rating and categories together not working - http://newsgroup.xnview.com/viewtopic.php?t=36678
+1340: [Bug] Linux: Watermark problem - http://newsgroup.xnview.com/viewtopic.php?t=36684
+1339: [Bug] Save selection between view tab - http://newsgroup.xnview.com/viewtopic.php?t=36669
+1338: [Bug] No more thumbnails after rename folder - http://newsgroup.xnview.com/viewtopic.php?t=36571
+1337: [New] Registration name/code in registry [HKEY_LOCAL_MACHINE\SOFTWARE\XnView\XnViewMP]
+1336: [Bug] Can't use 'A', 'D' in view mode as shortcut - http://newsgroup.xnview.com/viewtopic.php?t=36606
+1335: [Bug] Linux: Menu disappears - http://newsgroup.xnview.com/viewtopic.php?t=36623
+1334: [Bug] Renaming subfolder is not changed in catalog - http://newsgroup.xnview.com/viewtopic.php?t=36410
+1333: [Bug] Linux: Overwrite without warning - http://newsgroup.xnview.com/viewtopic.php?t=35910
+1331: [Bug] MacOSX: Crash when switching from fullscreen view - http://newsgroup.xnview.com/viewtopic.php?t=36597
+1330: [Bug] PDF/PS read problem on MacOSX
+1328: [Bug] 'All' category returns empty list - http://newsgroup.xnview.com/viewtopic.php?t=36386
+1327: [Bug] No info in statusbar for first file - http://newsgroup.xnview.com/viewtopic.php?t=36579
+
+
+Changelog 0.88:
+
+1326: [New] More used formats at the top in save dialog
+1325: [New] Policy entries in xnview.ini
+1324: [Bug] Paint problem on scaled display - http://newsgroup.xnview.com/viewtopic.php?t=36458
+1323: [Bug] 'Open With' & path with %1 - http://newsgroup.xnview.com/viewtopic.php?t=36538
+1322: [Bug] Category 'Special items' doesn't use 'Match' setting - http://newsgroup.xnview.com/viewtopic.php?t=36386
+1321: [Bug] Crash when using Mode dialog - http://newsgroup.xnview.com/viewtopic.php?t=36330
+1320: [Bug] Catalog not correctly updated after folder renaming - http://newsgroup.xnview.com/viewtopic.php?t=36410
+1319: [Bug] Batch convert: 'as original' format not restored
+1318: [Bug] Batch convert doesn't keep creation date - http://newsgroup.xnview.com/viewtopic.php?t=36277
+1317: [Bug] Linux: Database/default path problem - http://newsgroup.xnview.com/viewtopic.php?t=35447
+1316: [Bug] CADIMAGE.DLL can't be used
+1315: [Bug] Linux: Texts are gone - http://newsgroup.xnview.com/viewtopic.php?t=36326
+1314: [Bug] Slow viewing of RAW files - http://newsgroup.xnview.com/viewtopic.php?t=36379
+1312: [New] Exposure adjsutement in edit mode - http://newsgroup.xnview.com/viewtopic.php?t=36368
+1311: [Bug] XnConvert should save/restore inactive actions - http://newsgroup.xnview.com/viewtopic.php?t=36252
+1310: [Bug] Move To resets file date - http://newsgroup.xnview.com/viewtopic.php?t=35717
+1309: [Bug] Slow batch rename with RAW files - http://newsgroup.xnview.com/viewtopic.php?t=36316
+1308: [Bug] Collage problem - http://newsgroup.xnview.com/viewtopic.php?t=35979
+1307: [Bug] Auto image size not kept - http://newsgroup.xnview.com/viewtopic.php?t=36276
+1306: [Bug] {Filename] in 'File Listing' use pathname - http://newsgroup.xnview.com/viewtopic.php?t=36302
+1305: [Bug] Empty categories after rename folder (base path) - http://newsgroup.xnview.com/viewtopic.php?t=36186
+1304: [New] FLIF 0.3
+1303: [Bug] Transparent SVG - http://newsgroup.xnview.com/viewtopic.php?t=30579
+1302: [Bug] Save selection & dot in filename - http://newsgroup.xnview.com/viewtopic.php?t=35910
+1301: [Bug] 'Copy' in edit mode doesn't copy filename
+
+
+Changelog 0.87:
+
+1299: [Bug] Contact sheet unwanted spacing - http://newsgroup.xnview.com/viewtopic.php?t=36192
+1298: [Bug] Batch rename and GPS special chars - http://newsgroup.xnview.com/viewtopic.php?t=36145
+1297: [Bug] Thumbnail orientation after 'Edit IPTC' - http://newsgroup.xnview.com/viewtopic.php?t=36114
+1296: [New] Imgur service
+1295: [Bug] Resize dialog - Maximum size value in mm - http://newsgroup.xnview.com/viewtopic.php?t=35975
+1165: [New] Guetzli JPEG from Google - http://newsgroup.xnview.com/viewtopic.php?t=35158
+1291: [New] Import&sort: new subfolder template
+1295: [Bug] Resize dialog - Maximum size value in mm - http://newsgroup.xnview.com/viewtopic.php?t=35975
+1294: [Bug] TIFF with 4 BitsPerSample - http://newsgroup.xnview.com/viewtopic.php?t=35961
+1293: [Bug] Message when ghostscript is not found
+1292: [Bug] Random msg: "This picture will be converted..." - http://newsgroup.xnview.com/viewtopic.php?t=35223
+1290: [Bug] Rename on Folder tree bad focus - http://newsgroup.xnview.com/viewtopic.php?t=35922
+1289: [Bug] Drag&Drop file in thumbnail view (empty space) should make a copy
+1288: [Bug] Copy-Paste Auto-naming Discrepancy - http://newsgroup.xnview.com/viewtopic.php?t=35882
+1287: [New] Zealous Crop - http://newsgroup.xnview.com/viewtopic.php?t=35860
+1286: [New] Film simulation (clut from InstaCam)
+1285: [Bug] Annotation in contact sheet
+1284: [Bug] Batch convert: Save and delete original - http://newsgroup.xnview.com/viewtopic.php?t=35670
+1283: [Bug] 'Fixed ratio' should be set with image ratio - http://newsgroup.xnview.com/viewtopic.php?t=35848
+1282: [Bug] Sort in view mode not always correct - http://newsgroup.xnview.com/viewtopic.php?t=35832
+1281: [Bug] Favorites pane sometimes empty - http://newsgroup.xnview.com/viewtopic.php?t=35834
+1280: [Bug] PSD thumbnail support - http://newsgroup.xnview.com/viewtopic.php?t=35810
+1279: [New] Batch Convert - Start index for #
+1278: [Bug] Crash after file(s) are deleted or moved - http://newsgroup.xnview.com/viewtopic.php?t=35462
+1277: [Bug] Batch Convert: Save 'Delete' question choice
+1276: [Bug] "Update catalog from files" remove categories - http://newsgroup.xnview.com/viewtopic.php?t=35698
+1275: [New] Setting for highlight selection - http://newsgroup.xnview.com/viewtopic.php?t=35808
+1274: [Bug] Copy instead of move in the same share - http://newsgroup.xnview.com/viewtopic.php?t=35504
+1273: [Bug] Import category list - http://newsgroup.xnview.com/viewtopic.php?t=35741
+1272: [Bug] Custom order doesn't reset header indicator - http://newsgroup.xnview.com/viewtopic.php?t=35296
+1271: [Bug] Sidecar: Export Rating/label doesn't export categories - Export categories doesn't export rating/label
+1270: [Bug] Update catalog needs 'Import subject' setting - http://newsgroup.xnview.com/viewtopic.php?t=35698
+1269: [Bug] Renaming video file in use - http://newsgroup.xnview.com/viewtopic.php?t=35254
+1268: [Bug] XnView MP can rename files to too long names - http://newsgroup.xnview.com/viewtopic.php?t=34411
+1267: [Bug] Tabbing impossible in dialogs with multi-line fields - http://newsgroup.xnview.com/viewtopic.php?t=35244
+1266: [Bug] Compare - shortcut & selection - http://newsgroup.xnview.com/viewtopic.php?t=35592
+1265: [Bug] Create "joining images" based on DNG ignoring the embedded preview - http://newsgroup.xnview.com/viewtopic.php?t=35645
+1232: [Bug] Fullscreen: "Quit" closes program - http://newsgroup.xnview.com/viewtopic.php?t=30824
+1263: [Bug] Batch convert - Canvas resize interface - http://newsgroup.xnview.com/viewtopic.php?t=35793
+1264: [Bug] GPS tag missing - http://newsgroup.xnview.com/viewtopic.php?t=35690
+1262: [Bug] "Maximum of view tabs" option is ignored sometimes - http://newsgroup.xnview.com/viewtopic.php?t=35247
+1261: [Bug] "View » Reset X/Y" does not work - http://newsgroup.xnview.com/viewtopic.php?t=35552
+1260: [Bug] Category assignment - http://newsgroup.xnview.com/viewtopic.php?t=35584
+1259: [Bug] Crash when pressing <Ctrl> + </> in Browser-Mode with folder selected - http://newsgroup.xnview.com/viewtopic.php?t=35628
+1258: [Bug] Moving a folder on itself in Detail View - http://newsgroup.xnview.com/viewtopic.php?t=35370
+1257: [Bug] Theme not checked - http://newsgroup.xnview.com/viewtopic.php?t=18636
+1256: [Bug] Preview and Browser navigation issues with videos - http://newsgroup.xnview.com/viewtopic.php?t=35222
+1255: [Bug] Mac folder numeric sorting - http://newsgroup.xnview.com/viewtopic.php?t=34548
+1254: [Bug] Selection ratio in main menu and crop toolbar out of sync - http://newsgroup.xnview.com/viewtopic.php?t=35526
+1253: [Bug] Slide show: Same image shown multiple times - http://newsgroup.xnview.com/viewtopic.php?t=35062
+1252: [Bug] Drag and drop doesn't work in List view - http://newsgroup.xnview.com/viewtopic.php?t=35297
+1251: [Bug] PSB format - http://newsgroup.xnview.com/viewtopic.php?t=34134
+1250: [Bug] Restoring layout reverts info pane tab - http://newsgroup.xnview.com/viewtopic.php?t=35088
+1249: [New] Comment field (embbeded or description) - http://newsgroup.xnview.com/viewtopic.php?t=35281
+1248: [Bug] Manual refresh doesn't refresh folder tree - http://newsgroup.xnview.com/viewtopic.php?t=35075
+1247: [Bug] Toolbar item "show files in subfolder" doesn't show stat - http://newsgroup.xnview.com/viewtopic.php?t=29652
+1246: [Bug] Browser: Menu "Edit > Properties" missing - http://newsgroup.xnview.com/viewtopic.php?t=33970
+0845: [New] Delete files or categories in browser - http://newsgroup.xnview.com/viewtopic.php?t=32816
+1079: [Bug] Wrong multi-selection after mouse wheel selection - http://newsgroup.xnview.com/viewtopic.php?t=34719
+1245: [Bug] Bug when selecting files with the keyboard - http://newsgroup.xnview.com/viewtopic.php?t=33945
+1244: [Bug] UI: Slash in path - http://newsgroup.xnview.com/viewtopic.php?t=34392
+1243: [Bug] Resizing problem - http://newsgroup.xnview.com/viewtopic.php?t=31350
+1242: [Bug] Copy Image does not work - http://newsgroup.xnview.com/viewtopic.php?t=34652
+1241: [Bug] Thumbs+Details: Strange behaviour when Renaming - http://newsgroup.xnview.com/viewtopic.php?t=35225
+1240: [Bug] Reset fit when next/previous file - http://newsgroup.xnview.com/viewtopic.php?t=34416
+1239: [Bug] Results of scanning aren't added to the browser - http://newsgroup.xnview.com/viewtopic.php?t=34446
+1238: [Bug] Add Noise filter does not respect the mask - http://newsgroup.xnview.com/viewtopic.php?t=35061
+1237: [Bug] Artefacts when high quality zooming 4-color greyscale - http://newsgroup.xnview.com/viewtopic.php?t=35064
+1236: [Bug] Large image thumbnail problem - Thumbnail of large images are dark
+1235: [New] Comment encoding - http://newsgroup.xnview.com/viewtopic.php?t=35542
+1234: [Bug] Hierarchy not saved in IPTC keywords - http://newsgroup.xnview.com/viewtopic.php?t=35755
+1233: [Bug] Darkened screen when closing context menu - http://newsgroup.xnview.com/viewtopic.php?t=35104
+1231: [Bug] Keyboard shortcuts "fast image scrolling" missing - http://newsgroup.xnview.com/viewtopic.php?t=33224
+1230: [Bug] Details View: Middle Mouse Click Doesn't Open File - http://newsgroup.xnview.com/viewtopic.php?t=33618
+1229: [Bug] When the Favourite is non-existent - http://newsgroup.xnview.com/viewtopic.php?t=30769
+1228: [Bug] Database search progress not indicated - http://newsgroup.xnview.com/viewtopic.php?t=35095
+1227: [Bug] "Shadow" & "Conbright" don't respect selection - http://newsgroup.xnview.com/viewtopic.php?t=35193
+1226: [Bug] Video volume is changed when changing mode - http://newsgroup.xnview.com/viewtopic.php?t=35331
+1225: [Bug] Status bar not updated with 1st file at beginning - http://newsgroup.xnview.com/viewtopic.php?t=35175
+1224: [Bug] Purge 'Most recently used files&dirs' on exit - http://newsgroup.xnview.com/viewtopic.php?t=16966
+1223: [Bug] Focus lost after searching - http://newsgroup.xnview.com/viewtopic.php?t=35177
+1222: [Bug] Symbolic directory link - http://newsgroup.xnview.com/viewtopic.php?t=34417
+1221: [Bug] Volume doesn't always mute when at zero - http://newsgroup.xnview.com/viewtopic.php?t=34888
+1220: [Bug] Tree navigation with keyboard issue - http://newsgroup.xnview.com/viewtopic.php?t=35329
+1219: [Bug] Image "jumps" when selecting requires scrolling - http://newsgroup.xnview.com/viewtopic.php?t=34969
+1218: [Bug] Autoexpand subfolders in folder tree - http://newsgroup.xnview.com/viewtopic.php?t=35293
+1217: [Bug] Disable catalog - http://newsgroup.xnview.com/viewtopic.php?t=35521
+1216: [Bug] Thumbnail for folder's link - http://newsgroup.xnview.com/viewtopic.php?t=33943
+1215: [Bug] .jpg_original files after editing metadata - http://newsgroup.xnview.com/viewtopic.php?t=35404
+1214: [Bug] Multi-selection in browser: Wrong state of menu items - http://newsgroup.xnview.com/viewtopic.php?t=35346
+1213: [Bug] Wrong thumbnail orientation for raw files - http://newsgroup.xnview.com/viewtopic.php?t=35511
+1212: [Bug] Batch renaming, enter key problem - http://newsgroup.xnview.com/viewtopic.php?t=35260
+1211: [Bug] HLS-Temperature don't use selection rectangle - http://newsgroup.xnview.com/viewtopic.php?t=35251
+1210: [Bug] No Drag&Drop to parent folder - http://newsgroup.xnview.com/viewtopic.php?t=34871
+1209: [Bug] Manually set video position ignored - http://newsgroup.xnview.com/viewtopic.php?t=35292
+1208: [Bug] Thumbnails+filenames view: Filename truncated - http://newsgroup.xnview.com/viewtopic.php?t=35258
+1207: [Bug] View mode doesn't detect file removed - http://newsgroup.xnview.com/viewtopic.php?t=35435
+1206: [Bug] Keep Ratio and Preset Sizes Issues - http://newsgroup.xnview.com/viewtopic.php?t=35548
+1205: [Bug] No message box "...will lose all existing metadata" - http://newsgroup.xnview.com/viewtopic.php?t=35429
+1204: [Bug] Change EXIF orientation field when EXIF doesn't exist - http://newsgroup.xnview.com/viewtopic.php?t=35749
+1203: [Bug] Remove file on Linux sometimes doesn't work - http://newsgroup.xnview.com/viewtopic.php?t=30588&p=142932
+1202: [Bug] Batch convert watermark: when watermark is bigger than image + right position
+1199: [Bug] Can't disable 'format color' on Thumbnails+label mode
+1200: [Bug] Edit GPS change always the file date - http://newsgroup.xnview.com/viewtopic.php?t=35682
+1198: [Bug] Settings in Registry - http://newsgroup.xnview.com/viewtopic.php?t=35603
+1196: [Bug] TIF > 2GB & multipage - http://newsgroup.xnview.com/viewtopic.php?t=35056
+
+
+Changelog 0.86:
+
+1194: [Bug] Long delay to create folder tree on Windows 10 Creator Update
+1193: [Bug] Custom button in edit mode - http://newsgroup.xnview.com/viewtopic.php?t=35242
+1192: [New] Clip Studio support - http://newsgroup.xnview.com/viewtopic.php?t=28554
+1190: [Bug] Not all GPS fields - http://newsgroup.xnview.com/viewtopic.php?t=35404
+1189: [Bug] Fullscreen (edit mode) => browser not restored correctly - http://newsgroup.xnview.com/viewtopic.php?t=35406
+1188: [Bug] IPTC & labels - http://newsgroup.xnview.com/viewtopic.php?t=35405
+1187: [Bug] JPEG crash - http://newsgroup.xnview.com/viewtopic.php?t=35420
+1186: [Bug] CMYK image default profile - http://newsgroup.xnview.com/viewtopic.php?t=31685
+1185: [Bug] Menu & settings too large - http://newsgroup.xnview.com/viewtopic.php?t=35365
+1184: [Bug] X3F with only embedded JPEG
+1183: [Bug] RGBA bilinear resize (halo) - http://newsgroup.xnview.com/viewtopic.php?t=33425
+1182: [New] OpenEXR last version
+1180: [New] LIBPNG 1.6.29
+1179: [New] LCMS 2.8
+1178: [New] ZLIB 1.2.11
+1177: [New] WebP 0.6.0
+1176: [New] SQLite 3.18.0
+1175: [Bug] Windows with DPI scaling: Bad quality for image shown at 100%
+1174: [Bug] No more GIF animation - http://newsgroup.xnview.com/viewtopic.php?t=35382
+1173: [New] -noDpiScaling to disable DPi scaling on HiDPI device
+1172: [Bug] ContactSheet: header not visible
+
+
+Changelog 0.85:
+
+0114: [New] Create contact sheet
+1052: [New] TWAIN 32bits support in 64bits
+1082: [New] Shortcuts setting in 2 separate list
+1087: [New] Template filename in Import&sort dialog - http://newsgroup.xnview.com/viewtopic.php?t=34729
+1072: [New] Context menu of tree pane: Order of menu items - http://newsgroup.xnview.com/viewtopic.php?t=34688
+1070: [New] UNC expand in folder tree - http://newsgroup.xnview.com/viewtopic.php?t=34673
+1063: [New] Keep Histogram/grid/info state when view tab is closed - http://newsgroup.xnview.com/viewtopic.php?t=34641
+1148: [New] Draw: Del key to remove item - http://newsgroup.xnview.com/viewtopic.php?t=35037
+1040: [New] MacOSX drag&drop -> Move instead of Copy - http://newsgroup.xnview.com/viewtopic.php?t=34214
+1159: [New] Read/Write settings in global settings dialog
+1158: [New] Linux: copy and paste - http://newsgroup.xnview.com/viewtopic.php?t=35066
+0490: [New] Filename in statusbar not elided - http://newsgroup.xnview.com/viewtopic.php?t=30717
+1117: [New] Ask again message in dialog box - http://newsgroup.xnview.com/viewtopic.php?t=29221
+1115: [New] useInternalVideoPlayer instead of videoMode setting
+1114: [New] Icons for "Uncolored" and "Uncolored (Next image)" - http://newsgroup.xnview.com/viewtopic.php?t=34941
+1141: [New] Shortcuts for page navigation - http://newsgroup.xnview.com/viewtopic.php?t=18514
+1107: [New] Click on favorites star does nothing - http://newsgroup.xnview.com/viewtopic.php?t=34901
+1097: [New] Menu entry "View»Info pane»Show" missing - http://newsgroup.xnview.com/viewtopic.php?t=24061
+1095: [New] Custom filter - http://newsgroup.xnview.com/viewtopic.php?t=34778
+0738: [New] Selection save/restore
+1169: [Bug] Drag&Drop in file list copies file in detail view - http://newsgroup.xnview.com/viewtopic.php?t=35157
+1168: [Bug] "Fullscreen" not disabled for non-image files - http://newsgroup.xnview.com/viewtopic.php?t=35003
+1164: [Bug] Setting "Folder of Thumbnail database" is not kept - http://newsgroup.xnview.com/viewtopic.php?t=35151
+1163: [Bug] PAM format - http://newsgroup.xnview.com/viewtopic.php?t=35132
+1162: [Bug] Issues on HiDPi screen
+1161: [Bug] Change timestamp: UI change when toggling checkbox - http://newsgroup.xnview.com/viewtopic.php?t=35086
+1160: [Bug] Update catalogue from files causes heavy disk access - http://newsgroup.xnview.com/viewtopic.php?t=35052
+0686: [Bug] Date problem - http://newsgroup.xnview.com/viewtopic.php?t=32019
+1157: [Bug] Severe bug: photo overwritten without warning - http://newsgroup.xnview.com/viewtopic.php?t=35046
+1156: [Bug] Linux: dot in folder name -> saveas bug - http://newsgroup.xnview.com/viewtopic.php?t=29099
+0902: [Bug] Issues on Retina screen - http://newsgroup.xnview.com/viewtopic.php?t=27420
+1155: [Bug] Resizing to large image fails silently - http://newsgroup.xnview.com/viewtopic.php?t=35060
+1154: [Bug] Print -> Captions - http://newsgroup.xnview.com/viewtopic.php?t=33647
+1153: [Bug] MacOS: Draw function generates unexpected crash & quits - http://newsgroup.xnview.com/viewtopic.php?t=35036
+1152: [Bug] Search function - possible memory leak - http://newsgroup.xnview.com/viewtopic.php?t=32943
+0641: [Bug] Sort by Aperture/Focal/Shutter - http://newsgroup.xnview.com/viewtopic.php?t=31496
+1151: [Bug] Category Set: Can't remove category - http://newsgroup.xnview.com/viewtopic.php?t=30823
+1150: [Bug] Copy & Paste of folder pastes as subfolder - http://newsgroup.xnview.com/viewtopic.php?t=35020
+1149: [Bug] Tiff compression - http://newsgroup.xnview.com/viewtopic.php?t=32252
+1103: [Bug] MacOSX: delete folder - not moved in trash can
+1102: [Bug] Setup wizard - XnView folder by default
+1146: [Bug] Batch convert, Same filename in hotfolder unrecognized after first run - http://newsgroup.xnview.com/viewtopic.php?t=35012
+1145: [Bug] USB stick not detected - http://newsgroup.xnview.com/viewtopic.php?t=29313
+1144: [Bug] Draw tool: No consecutive text drawing - http://newsgroup.xnview.com/viewtopic.php?t=34152
+1143: [Bug] Page Numbers wrong when Thumb Printout - http://newsgroup.xnview.com/viewtopic.php?t=34396
+0950: [Bug] Different ratio X/Y - http://newsgroup.xnview.com/viewtopic.php?t=33725
+1122: [Bug] Browser: Change filter doesn't update statusbar - http://newsgroup.xnview.com/viewtopic.php?t=35026
+1140: [Bug] Batch rename thumbnail enlarges constantly - http://newsgroup.xnview.com/viewtopic.php?t=32528
+1139: [Bug] Wait cursor in "JPG lossless" warning message box - http://newsgroup.xnview.com/viewtopic.php?t=34994
+1138: [Bug] Format colors isn't working - http://newsgroup.xnview.com/viewtopic.php?t=33870
+0890: [Bug] Pan tool problem - http://newsgroup.xnview.com/viewtopic.php?t=33349
+1137: [Bug] Set selection ratio - http://newsgroup.xnview.com/viewtopic.php?t=33671
+1136: [Bug] Changing theme doesn't update XnView - http://newsgroup.xnview.com/viewtopic.php?t=34959
+1135: [Bug] 'Auto play (video)' option doesn't affect current tab - http://newsgroup.xnview.com/viewtopic.php?t=34887
+1134: [Bug] Updater logic - version compare logic typo - http://newsgroup.xnview.com/viewtopic.php?t=34574
+1133: [Bug] Shortcut Alt+Enter doesn't open properties - http://newsgroup.xnview.com/viewtopic.php?t=34613
+1132: [Bug] Disable dropdown while in crop mode - http://newsgroup.xnview.com/viewtopic.php?t=34946
+0157: [Bug] Drag&drop in GPS pane - http://newsgroup.xnview.com/viewtopic.php?t=28982
+1131: [Bug] Cropping is a bit off - http://newsgroup.xnview.com/viewtopic.php?t=34911
+1130: [Bug] Kolor Crash reporter: Upload enabled after deletion - http://newsgroup.xnview.com/viewtopic.php?t=34988
+1129: [Bug] Kolor Crash reporter: Upload button remains enabled - http://newsgroup.xnview.com/viewtopic.php?t=34766
+1128: [Bug] Deleting files in fullscreen mode deleted all folders - http://newsgroup.xnview.com/viewtopic.php?t=29628
+1127: [Bug] Categories on folder - http://newsgroup.xnview.com/viewtopic.php?t=33643
+1126: [Bug] Category filter & base path - http://newsgroup.xnview.com/viewtopic.php?t=34881
+1125: [Bug] Selection: 'W' key doesn't always swap - http://newsgroup.xnview.com/viewtopic.php?t=34984
+1124: [Bug] No backup for lossless operations - http://newsgroup.xnview.com/viewtopic.php?t=34957
+1123: [Bug] JPEG lossless cropping is completely off - http://newsgroup.xnview.com/viewtopic.php?t=34957
+1121: [Bug] Some context menu items unavailable after making copy - http://newsgroup.xnview.com/viewtopic.php?t=34908
+1118: [Bug] Selection: Swapping h/w doesn't update status - http://newsgroup.xnview.com/viewtopic.php?t=34983
+1120: [Bug] Many disk accesses when canceling ITPC/IIM dialog - http://newsgroup.xnview.com/viewtopic.php?t=34992
+1119: [Bug] Batch convert: ZIP files without .zip extension - http://newsgroup.xnview.com/viewtopic.php?t=34999
+1116: [Bug] Folder filter should update when we change the folder - http://newsgroup.xnview.com/viewtopic.php?t=34915
+1113: [Bug] Incorrect volume reading after restart when vol at 0 - http://newsgroup.xnview.com/viewtopic.php?t=34889
+1112: [Bug] Category filter: Deselecting doesn't deselect children - http://newsgroup.xnview.com/viewtopic.php?t=34770
+1111: [Bug] Searching twice returns no results - http://newsgroup.xnview.com/viewtopic.php?t=34920
+1110: [Bug] Viewer: Selection lost when moving selection - http://newsgroup.xnview.com/viewtopic.php?t=34860
+1109: [Bug] Tagging files by checking them causes strange behavior - http://newsgroup.xnview.com/viewtopic.php?t=34918
+1105: [Bug] Always "Folder" after hiding data pane - http://newsgroup.xnview.com/posting.php?p=138489
+1108: [Bug] # of object(s) selected doesn't clear properly - http://newsgroup.xnview.com/viewtopic.php?t=34917
+1106: [Bug] .XnViewSort never shown - http://newsgroup.xnview.com/viewtopic.php?t=34906
+1104: [Bug] Toolbar Command "Show" gone after adding and removing - http://newsgroup.xnview.com/viewtopic.php?t=34885
+1101: [Bug] View»Data pane»Show unhides Folder tree - http://newsgroup.xnview.com/viewtopic.php?t=34868
+1077: [Bug] Titlebar no longer hidden when switching mode - http://newsgroup.xnview.com/viewtopic.php?t=34711
+1100: [Bug] ":\ not allowed in windows filename - http://newsgroup.xnview.com/viewtopic.php?t=29700
+1099: [Bug] Viewer: "Page" in context menu not disabled - http://newsgroup.xnview.com/viewtopic.php?t=34864
+1010: [Bug] Tree & browser sync issue - http://newsgroup.xnview.com/viewtopic.php?t=34016
+1011: [Bug] Tree order - http://newsgroup.xnview.com/viewtopic.php?t=34017
+1094: [Bug] Capture is not capturing the cursor - http://newsgroup.xnview.com/viewtopic.php?t=34578
+1073: [Bug] Folder tree not updated when deleting folder - http://newsgroup.xnview.com/viewtopic.php?t=34687
+1093: [Bug] "Show Alpha" doesn't toggle using "M" key - http://newsgroup.xnview.com/viewtopic.php?t=34466
+1092: [Bug] can't remember auto image size in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=34747
+1091: [Bug] Binary image zoom-in glitch - http://newsgroup.xnview.com/viewtopic.php?t=34746
+1090: [Bug] Rating & Label not export in XMP Sidecar automatically - http://newsgroup.xnview.com/viewtopic.php?t=34728
+1089: [Bug] Check for orphaned files/directories can wipe catalog info - http://newsgroup.xnview.com/viewtopic.php?t=30490
+1088: [Bug] Category/rating cannot be used in create file listing
+1086: [Bug] Fullscreen - Crazy Info Panel - http://newsgroup.xnview.com/viewtopic.php?t=34756
+1085: [Bug] Browser: Filter by»Custom always checked - http://newsgroup.xnview.com/viewtopic.php?t=34769
+0958: [Bug] Grid always selected in crop mode - http://newsgroup.xnview.com/viewtopic.php?t=33727
+1084: [Bug] Fullscreen - No Crop Menu - http://newsgroup.xnview.com/viewtopic.php?t=34755
+1080: [Bug] Switching mode: Only middle-doubleclick switches - http://newsgroup.xnview.com/viewtopic.php?t=34692
+1078: [Bug] Copy to/Move to: Double-click on folder triggers - http://newsgroup.xnview.com/viewtopic.php?p=138018
+1075: [Bug] Settings not saved in argument INI - http://newsgroup.xnview.com/viewtopic.php?t=34681
+1074: [Bug] Export - Quality value not visible for WebP - http://newsgroup.xnview.com/viewtopic.php?t=34713
+1071: [Bug] 'Tag' filter show always all files - http://newsgroup.xnview.com/viewtopic.php?t=34677
+1069: [Bug] Moving files messes up categories & base path- http://newsgroup.xnview.com/viewtopic.php?t=34643
+1065: [Bug] Crash when zooming out small image using grid - http://newsgroup.xnview.com/viewtopic.php?t=34656
+1066: [Bug] .JP_ image deleted in JPEG lossless transformation - http://newsgroup.xnview.com/viewtopic.php?t=34660
+1064: [Bug] File size&name not updated in statusbar - http://newsgroup.xnview.com/viewtopic.php?t=34646
+1062: [Bug] Rename dialog template - http://newsgroup.xnview.com/viewtopic.php?t=34627
+1061: [Bug] Video play/pause - http://newsgroup.xnview.com/viewtopic.php?t=34614
+1060: [Bug] Filelist: 2 slashes - http://newsgroup.xnview.com/viewtopic.php?t=34619
+
+
+Changelog 0.84:
+
+1050: [Bug] Image saved ot updated in browser - http://newsgroup.xnview.com/viewtopic.php?t=34543
+1046: [Bug] UTF8 in .XnViewSort - http://newsgroup.xnview.com/viewtopic.php?t=34484
+1045: [Bug] Crash with .001 files - http://newsgroup.xnview.com/viewtopic.php?t=34406
+1044: [Bug] Wheel mouse in browser - http://newsgroup.xnview.com/viewtopic.php?t=34242
+1037: [Bug] VideoMode=true - http://newsgroup.xnview.com/viewtopic.php?t=33599
+1038: [Bug] Slow delete when many subfolders exist - http://newsgroup.xnview.com/viewtopic.php?t=34327
+1033: [Bug] Leaks when creating catalog - http://newsgroup.xnview.com/viewtopic.php?t=34220
+1032: [Bug] Some problems with IPTC-XMP dialog - http://newsgroup.xnview.com/viewtopic.php?t=34053
+1031: [Bug] Set Rating/category & batch rename - http://newsgroup.xnview.com/viewtopic.php?t=34110
+1030: [Bug] Move subfolder in same path - http://newsgroup.xnview.com/viewtopic.php?t=34146
+1029: [Bug] Crash when setting a category and enter something in quicksearch
+1028: [Bug] Crash at start with win10 build 14965 - http://newsgroup.xnview.com/viewtopic.php?t=34135
+1027: [Bug] 180° rotation on BW picture
+1026: [Bug] 8bf 64bits plugin - http://newsgroup.xnview.com/viewtopic.php?t=34174
+1024: [Bug] -ini & startup wizard - http://newsgroup.xnview.com/viewtopic.php?t=33874
+1023: [New] Mosaic effect missing - http://newsgroup.xnview.com/viewtopic.php?t=34196
+1022: [New] Paint feature
+1017: [Bug] Delta Y in Watermark - http://newsgroup.xnview.com/viewtopic.php?t=34101
+1016: [Bug] 'sort' numeric not default - http://newsgroup.xnview.com/viewtopic.php?t=34064
+1013: [Bug] 'save as' extension - http://newsgroup.xnview.com/viewtopic.php?t=34019
+1012: [Bug] 'Save as' doesn't use 'keep date' - http://newsgroup.xnview.com/viewtopic.php?t=34019
+1009: [Bug] Custom path empty - http://newsgroup.xnview.com/viewtopic.php?t=33976
+1008: [Bug] Freeze when viewing folder of icon files - http://newsgroup.xnview.com/viewtopic.php?t=33964
+0642: [Bug] View problem - http://newsgroup.xnview.com/viewtopic.php?t=31581
+0491: [Bug] View problem - http://newsgroup.xnview.com/viewtopic.php?t=30721
+1007: [Bug] XnView freeze when closing view of RAW - http://newsgroup.xnview.com/viewtopic.php?t=33966
+0978: [Bug] MacOSX - edit description crash
+1005: [Bug] Slow start & .XnViewSort - http://newsgroup.xnview.com/viewtopic.php?t=33609
+1004: [New] afdesign thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=33948
+1003: [New] Qt 5.6.2
+1002: [Bug] Problem category rename/move - http://newsgroup.xnview.com/viewtopic.php?t=33628
+1001: [Bug] Sessions & one instance - http://newsgroup.xnview.com/viewtopic.php?t=33607
+0998: [Bug] IPTC edit & parent keywords - http://newsgroup.xnview.com/viewtopic.php?t=33887
+0993: [Bug] Flickr removed - http://newsgroup.xnview.com/viewtopic.php?t=32077
+0989: [New] XnView after filename in titlebar - http://newsgroup.xnview.com/viewtopic.php?t=33762
+0955: [New] Check for update - http://newsgroup.xnview.com/viewtopic.php?t=33710
+0975: [Bug] Import with custom filename - http://newsgroup.xnview.com/viewtopic.php?t=33830
+0992: [New] No session saved if tabs not used - http://newsgroup.xnview.com/viewtopic.php?t=33928
+0991: [Bug] Import&sort video files not copied - http://newsgroup.xnview.com/viewtopic.php?t=33907
+0985: [Bug] FLIF output failed - http://newsgroup.xnview.com/viewtopic.php?t=33897
+0988: [Bug] Catalog 'Delete' and 'Delete all' don't have same behavior - http://newsgroup.xnview.com/viewtopic.php?t=33865
+0986: [Bug] Going back to browser doesn't select the good file - http://newsgroup.xnview.com/viewtopic.php?t=33807
+0984: [Bug] BPG console flicker - http://newsgroup.xnview.com/viewtopic.php?t=33861
+0983: [Bug] File format color not working - http://newsgroup.xnview.com/viewtopic.php?t=33870
+0982: [New] FLIF 0.2
+0981: [Bug] Sidecar naming - http://newsgroup.xnview.com/viewtopic.php?t=33390
+0980: [Bug] '/' used in copy clipboard - http://newsgroup.xnview.com/viewtopic.php?t=33833
+0979: [Bug] Export dialog and resampler method - http://newsgroup.xnview.com/viewtopic.php?t=33867
+0977: [Bug] Parameter for external editor - http://newsgroup.xnview.com/viewtopic.php?t=33842
+0976: [Bug] Export output folder - http://newsgroup.xnview.com/viewtopic.php?p=134635
+
+
+Changelog 0.83:
+
+972: [New] Naming of sidecar - http://newsgroup.xnview.com/viewtopic.php?t=33390
+971: [Bug] Can't open PDF files on network drive - http://newsgroup.xnview.com/viewtopic.php?t=33814
+970: [Bug] Linux: Moving create bad modified date - http://newsgroup.xnview.com/viewtopic.php?t=33784
+968: [Bug] Some shortcuts don't work on MacOSX - http://newsgroup.xnview.com/viewtopic.php?t=33786
+969: [Bug] OpenEXR on Linux - http://newsgroup.xnview.com/viewtopic.php?t=33800
+967: [Bug] Video playback hangs - http://newsgroup.xnview.com/viewtopic.php?t=33763
+965: [Bug] MacOSX Quits after displaying warning dialog - http://newsgroup.xnview.com/viewtopic.php?t=33769
+
+
+Changelog 0.82:
+
+947: [Bug] Video files no imported - http://newsgroup.xnview.com/viewtopic.php?t=33629
+944: [Bug] Scroll wheel and thumbstrip selection in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=33533
+943: [New] Edit GPS
+942: [Bug] Ctrl+X crash on many files
+941: [Bug] space at start/end when renaming - http://newsgroup.xnview.com/viewtopic.php?t=33644
+939: [Bug] XnView can't start if file doesn't exists anymore - http://newsgroup.xnview.com/viewtopic.php?t=33576
+936: [Bug] Show grid - http://newsgroup.xnview.com/viewtopic.php?t=33441
+934: [Bug] Annotation not shown on folder, thumbnails labels - http://newsgroup.xnview.com/viewtopic.php?t=33597
+930: [Bug] .keys coding - http://newsgroup.xnview.com/viewtopic.php?t=33603
+929: [New] EXIF GPS direction - http://newsgroup.xnview.com/viewtopic.php?t=33587
+928: [Bug] Video & double click - http://newsgroup.xnview.com/viewtopic.php?t=33577
+908: [New] WebP 0.5.1 - http://newsgroup.xnview.com/viewtopic.php?t=33399
+926: [Bug] Browser fullscreen - ESC doesn't work
+925: [New] affinity photo format - http://newsgroup.xnview.com/viewtopic.php?t=33496
+924: [Bug] Export disabled - http://newsgroup.xnview.com/viewtopic.php?t=33503
+922: [Bug] Change date/time & DST
+919: [Bug] __CMD__ doesn't work sometimes - http://newsgroup.xnview.com/viewtopic.php?t=33474
+918: [Bug] Lossless rotate, rotate by edit exif orientation - http://newsgroup.xnview.com/viewtopic.php?t=33433
+912: [Bug] Batch Convert: Place holder & Clean Metadata action - http://newsgroup.xnview.com/viewtopic.php?t=33429
+911: [Bug] Rating menu always available - http://newsgroup.xnview.com/viewtopic.php?t=33400
+910: [Bug] Filter by rating/label after changing rating/label crash (property view)
+909: [New] Auto image size setting - http://newsgroup.xnview.com/viewtopic.php?t=33389
+907: [Bug] Set comment after capture
+905: [Bug] Show tagged files & base path
+904: [Bug] Sidecar not readed if filename.ext.xmp - http://newsgroup.xnview.com/viewtopic.php?t=33381
+903: [Bug] SVG not supported - http://newsgroup.xnview.com/viewtopic.php?t=33371
+779: [Bug] Fullscreen switching - http://newsgroup.xnview.com/viewtopic.php?t=32610
+608: [Bug] Browser fullscreen setting - http://newsgroup.xnview.com/viewtopic.php?t=30577
+181: [Bug] Crop&move - http://newsgroup.xnview.com/viewtopic.php?t=27377
+827: [New] Better update dialog - http://newsgroup.xnview.com/viewtopic.php?t=19950
+790: [Bug] Move & original date - http://newsgroup.xnview.com/viewtopic.php?t=32684
+786: [Bug] Crash on gif view - http://newsgroup.xnview.com/viewtopic.php?t=32652
+780: [Bug] Custom sort - http://newsgroup.xnview.com/viewtopic.php?t=32609
+775: [Bug] Scrollbar override - http://newsgroup.xnview.com/viewtopic.php?t=32586
+629: [Bug] Print caption & pictures collection - http://newsgroup.xnview.com/viewtopic.php?t=31456
+698: [Bug] Quick Search UI - http://newsgroup.xnview.com/viewtopic.php?t=32129
+663: [Bug] EXIF rotation - http://newsgroup.xnview.com/viewtopic.php?t=23933
+623: [Bug] Search & base path - http://newsgroup.xnview.com/viewtopic.php?t=31366
+578: [Bug] ESC to close fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=31198
+879: [Bug] Copy instead of Move action - http://newsgroup.xnview.com/viewtopic.php?t=33327
+900: [Bug] Batch convert, resize in cm/mm
+899: [Bug] Switch browser-> Fullscreen & titlebar
+898: [New] Open all in context menu
+896: [Bug] Refresh doesn't work - http://newsgroup.xnview.com/viewtopic.php?t=33358
+894: [Bug] Custom _cmd_ not working in view mode
+893: [Bug] Exif orientation & rotate 180 - http://newsgroup.xnview.com/viewtopic.php?t=33325
+892: [Bug] If sidecar is empty, do not read IPTC - http://newsgroup.xnview.com/viewtopic.php?t=33252
+891: [Bug] Always play video - http://newsgroup.xnview.com/viewtopic.php?t=33337
+889: [New] LockZoomFlag to not keep LockZoom - http://newsgroup.xnview.com/viewtopic.php?t=33326
+888: [Bug] EXIF lost after rotation - http://newsgroup.xnview.com/viewtopic.php?t=33344
+887: [Bug] Catalog off & show thumbnail for folder off
+
+
+Changelog 0.81:
+
+883: [Bug] GPS map issues - http://newsgroup.xnview.com/viewtopic.php?t=33341 
+882: [New] QT 5.6.1
+881: [Bug] Delete in view mode doesn't work - http://newsgroup.xnview.com/viewtopic.php?t=33324
+880: [Bug] Thumbnail size change thumbnails view - http://newsgroup.xnview.com/viewtopic.php?t=33254 
+879: [Bug] Copy instead of Move action - http://newsgroup.xnview.com/viewtopic.php?t=33327
+756: [Bug] Print custom size - http://newsgroup.xnview.com/viewtopic.php?t=32327 
+877: [Bug] Thumbnail mode & thumbnail size menu - http://newsgroup.xnview.com/viewtopic.php?t=33253
+875: [Bug] Export after join/Capture - http://newsgroup.xnview.com/viewtopic.php?p=132575
+
+
+Changelog 0.80:
+
+871: [New] Libjpeg-turbo 1.5.0
+870: [Bug] Copy/Move file lose categories with base path
+869: [Bug] Copy/move dialog size - http://newsgroup.xnview.com/viewtopic.php?t=33285
+867: [New] Convert, Hot folders recursive flag
+866: [Bug] B&W picture rotation crash
+863: [Bug] Estimated jpeg quality not used for writing
+864: [New] MacRoman as iptc encoding
+858: [Bug] Filter list ignored in view mode - http://newsgroup.xnview.com/viewtopic.php?p=132139
+855: [Bug] Optimize catalog & base path - http://newsgroup.xnview.com/viewtopic.php?t=33174
+854: [Bug] File copy not added at the end - http://newsgroup.xnview.com/viewtopic.php?p=132081
+853: [New] QT 5.6.0
+762: [Bug] Drag&Drop toolbar item remove it - http://newsgroup.xnview.com/viewtopic.php?t=32451
+852: [Bug] Ctrl+X not working after 1st start - http://newsgroup.xnview.com/viewtopic.php?t=33095
+850: [Bug] Open an image from windows explorer is slow
+849: [Bug] Fullscreen on second monitor - http://newsgroup.xnview.com/viewtopic.php?t=33071
+848: [Bug] Rename/delete can crash or use another file - http://newsgroup.xnview.com/viewtopic.php?t=33003
+826: [Bug] Batch rename must use tmp-xnview-ORGFILENAME-#### instead tmp-xnview-####
+846: [Bug] Can't delete folder - http://newsgroup.xnview.com/viewtopic.php?t=32989
+843: [Bug] Custom toolbar buttons - http://newsgroup.xnview.com/viewtopic.php?t=33021
+841: [New] Address bar width - http://newsgroup.xnview.com/viewtopic.php?t=33008
+839: [Bug] Bad icon for EXE - http://newsgroup.xnview.com/viewtopic.php?t=33009
+834: [Bug] 4thumbs video and ffmpeg
+831: [Bug] Import&sort doesn't work - http://newsgroup.xnview.com/viewtopic.php?t=32973
+680: [New] Red eye removal - http://newsgroup.xnview.com/viewtopic.php?p=127190
+830: [Bug] XMP leak - http://newsgroup.xnview.com/viewtopic.php?t=32943
+842: [Bug] Session not restored if open with 1 file - http://newsgroup.xnview.com/viewtopic.php?p=131504
+
+
+Changelog 0.79:
+
+822: [Bug] Batch convert watermark - http://newsgroup.xnview.com/viewtopic.php?t=32903
+080: [New] Sidecar support
+817: [Bug] Refresh & category - http://newsgroup.xnview.com/viewtopic.php?t=32854
+816: [Bug] Set Comment crash on empty view
+815: [Bug] Update sidecars erase lightroom info - http://newsgroup.xnview.com/viewtopic.php?t=32791 
+814: [Bug] Description on multiple files - http://newsgroup.xnview.com/viewtopic.php?p=130260
+813: [Bug] Drag&drop of a folder in folder view - http://newsgroup.xnview.com/viewtopic.php?p=130728
+811: [Bug] xnviewmp instead of .xnviewmp folder on linux - http://newsgroup.xnview.com/viewtopic.php?t=31644
+810: [New] Relative Colorimetric by default - http://newsgroup.xnview.com/posting.php?mode=quote&p=130606 
+809: [Bug] Alpha in rotate dialog - http://newsgroup.xnview.com/viewtopic.php?t=32755 
+808: [Bug] No filename in thumbnail list fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=32814 
+807: [Bug] Single char category can't be added on a set - http://newsgroup.xnview.com/viewtopic.php?t=32798
+806: [Bug] No result when selecting more than 1 rating or color
+805: [Bug] Drag and drop copies instead of moving - http://newsgroup.xnview.com/viewtopic.php?t=32692 
+802: [Bug] Delete & cancel - http://newsgroup.xnview.com/viewtopic.php?t=32735 
+801: [Bug] Recycle Bin always used in Browser - http://newsgroup.xnview.com/viewtopic.php?t=32761
+797: [Bug] High quality zoom - http://newsgroup.xnview.com/viewtopic.php?t=32711
+800: [Bug] Resize fill & size values - http://newsgroup.xnview.com/viewtopic.php?t=32701 
+799: [Bug] zlib1.dll not found - http://newsgroup.xnview.com/viewtopic.php?t=32709 
+795: [Bug] OpenWith display name on linux - http://newsgroup.xnview.com/viewtopic.php?t=32747 
+791: [Bug] No infos in statusbar view mode - http://newsgroup.xnview.com/viewtopic.php?t=32685
+
+Changelog 0.78:
+
+778: [Bug] Exif image description decoding - http://newsgroup.xnview.com/viewtopic.php?t=32598
+767: [New] LibPNG 1.6.20
+774: [Bug] Batch convert & delete original file - http://newsgroup.xnview.com/viewtopic.php?t=32542
+773: [New] Automatic deskew in batch convert - http://newsgroup.xnview.com/viewtopic.php?t=29791
+772: [Bug] Category filter with rating/label - http://newsgroup.xnview.com/viewtopic.php?t=32571
+771: [Bug] Print doesn't close dialog - http://newsgroup.xnview.com/viewtopic.php?t=32545
+770: [New] WebP 0.4.4
+769: [New] OpenJPEG 2.1.0 - x32 & x64 versions
+756: [Bug] Print custom size - http://newsgroup.xnview.com/viewtopic.php?t=32327
+760: [New] XMP-Toolkit-SDK-CC201412
+757: [Bug] Text selected in combobox - http://newsgroup.xnview.com/viewtopic.php?t=32377
+758: [Bug] No warning when change timestamp fail - http://newsgroup.xnview.com/viewtopic.php?t=32436
+752: [Bug] Preview pane title - http://newsgroup.xnview.com/viewtopic.php?t=32428
+751: [Bug] Print thumbnails & margin
+750: [Bug] Blue frame in thumbnail list (fullscreen) on MacOSX - http://newsgroup.xnview.com/viewtopic.php?t=32382
+749: [Bug] Hide title bar & fullscreen mode - http://newsgroup.xnview.com/viewtopic.php?t=32390
+747: [New] Convert into must be disabled - http://newsgroup.xnview.com/viewtopic.php?t=32374
+746: [New] SQlite 3.9.2
+745: [New] Clear orphaned categories - http://newsgroup.xnview.com/viewtopic.php?t=31442
+744: [Bug] New folder text not selected - http://newsgroup.xnview.com/viewtopic.php?t=32058
+743: [Bug] TIFF 12bits - http://newsgroup.xnview.com/viewtopic.php?t=32367
+739: [Bug] Fullscreen from view mode - http://newsgroup.xnview.com/viewtopic.php?t=32150
+740: [Bug] Create thumbnail for video with FFmpeg on Linux/MacOSX
+490: [New] Filename in statusbar not elided - http://newsgroup.xnview.com/viewtopic.php?t=30717
+733: [Bug] Can't move video file - http://newsgroup.xnview.com/viewtopic.php?p=128544
+735: [Bug] "Multiple view for same file" opens tabs twice - http://newsgroup.xnview.com/viewtopic.php?t=32320
+
+Changelog 0.76:
+
+730: [Bug] Can't rename/delete video files
+729: [Bug] Crash on wmz file (x64 only)
+728: [Bug] Assign category during thumbnail creation
+727: [Bug] Fit & lock zoom - http://newsgroup.xnview.com/viewtopic.php?t=32199
+726: [Bug] Delete doesn't use filter - http://newsgroup.xnview.com/viewtopic.php?t=32199
+725: [Bug] TIFF compression after rotation - http://newsgroup.xnview.com/viewtopic.php?t=32252
+724: [Bug] Save preset - http://newsgroup.xnview.com/viewtopic.php?t=32234
+723: [Bug] XMP update crash - http://newsgroup.xnview.com/viewtopic.php?t=32245
+430: [Bug] Shift+select - http://newsgroup.xnview.com/viewtopic.php?t=30342
+722: [Bug] Crop fixed ratio - http://newsgroup.xnview.com/viewtopic.php?t=32222
+719: [Bug] Print & description field - http://newsgroup.xnview.com/viewtopic.php?t=31725
+716: [Bug] Move Selection - http://newsgroup.xnview.com/viewtopic.php?t=32195
+715: [New] Description in utf8
+714: [Bug] Crash in convert t Black&White
+713: [Bug] Crash when changing to an empty folder
+712: [Bug] Crash when assigning category to PNG files
+709: [Bug] Crash when opening image file
+707: [Bug] Google earth - http://newsgroup.xnview.com/viewtopic.php?t=32162
+704: [Bug] Fullscreen problem - http://newsgroup.xnview.com/viewtopic.php?t=32150
+703: [Bug] Crash when closing view
+
+Changelog 0.75:
+
+695: [New] SqlLite 3.8.11.1
+693: [New] Import&sort message - http://newsgroup.xnview.com/viewtopic.php?t=30819
+691: [New] INI not in good correct folder - http://newsgroup.xnview.com/viewtopic.php?t=31644
+690: [Bug] Hide title bar & maximized - http://newsgroup.xnview.com/viewtopic.php?t=32053
+688: [New] file:// support as argument
+687: [Bug] Folder rename in folderview must update catalog - http://newsgroup.xnview.com/viewtopic.php?p=127315
+685: [Bug] Multiple categories selection & match all - http://newsgroup.xnview.com/viewtopic.php?t=32031
+636: [New] LibPNG 1.6.18
+684: [Bug] High picture size crash - http://newsgroup.xnview.com/viewtopic.php?p=127228
+683: [New] Filter by image like XnView classic - http://newsgroup.xnview.com/viewtopic.php?t=31989
+682: [Bug] Reload must ask to save - http://newsgroup.xnview.com/viewtopic.php?p=127218
+676: [Bug] GIF crash - http://newsgroup.xnview.com/viewtopic.php?t=31936
+675: [New] Support for toolbar with higher icon size
+674: [Bug] Delete images in folder with # (linux) - http://newsgroup.xnview.com/viewtopic.php?t=31607
+101: [New] Strip of images
+570: [New] XnView Classic category.db => XnViewMP - http://newsgroup.xnview.com/viewtopic.php?t=17893
+672: [Bug] Screenshots crash - http://newsgroup.xnview.com/viewtopic.php?t=31827
+669: [Bug] Zoom quality & crop - http://newsgroup.xnview.com/viewtopic.php?t=31725
+668: [Bug] Open in editor doesn't work - http://newsgroup.xnview.com/viewtopic.php?t=31753
+667: [Bug] GPS error - http://newsgroup.xnview.com/viewtopic.php?t=31735
+659: [New] Fusion theme
+658: [Bug] Search file count - http://newsgroup.xnview.com/viewtopic.php?t=31670
+566: [Bug] HD display & settings dialog - http://newsgroup.xnview.com/viewtopic.php?t=31150
+569: [New] Folder pane auto scroll - http://newsgroup.xnview.com/viewtopic.php?t=31155
+620: [Bug] Remove Category sets crash - http://newsgroup.xnview.com/viewtopic.php?t=31337
+609: [Bug] Wrong import categories - http://newsgroup.xnview.com/viewtopic.php?t=31317
+657: [Bug] Drag&Drop from thumbnails to folder tree always Move action - http://newsgroup.xnview.com/viewtopic.php?t=30379
+646: [Bug] Quickslideshow doesn't wait end of video - http://newsgroup.xnview.com/viewtopic.php?t=27682
+645: [Bug] Video not played in view mode - http://newsgroup.xnview.com/viewtopic.php?t=29720
+641: [Bug] Sort by Aperture/Focal/Shutter - http://newsgroup.xnview.com/viewtopic.php?t=31496
+640: [Bug] SVG thumbnails - http://newsgroup.xnview.com/viewtopic.php?t=31464
+639: [Bug] Edit IPTC/XMP, clean Caption field doesn't remove dc:description - http://newsgroup.xnview.com/viewtopic.php?t=31552
+638: [Bug] <> in field for info - http://newsgroup.xnview.com/viewtopic.php?t=31531
+637: [New] FFmpeg for video thumbnails - http://newsgroup.xnview.com/viewtopic.php?t=31538
+635: [New] Little CMS 2.7
+581: [Bug] Convert - Watermark no gif in file selector - http://newsgroup.xnview.com/viewtopic.php?t=31516
+634: [Bug] Import categories move one at the end - http://newsgroup.xnview.com/viewtopic.php?p=125257
+633: [Bug] Can't select file in portugueze
+632: [Bug] PNG with XMP at end not readed - http://newsgroup.xnview.com/viewtopic.php?t=31472
+604: [Bug] Save selection... crash
+630: [Bug] Quick Slideshow stops - http://newsgroup.xnview.com/viewtopic.php?t=31296
+628: [Bug] Batch convert & kept folder doesn't keep parent folder
+627: [Bug] XMP written in RAW files - http://newsgroup.xnview.com/viewtopic.php?p=125052
+626: [Bug] Search 'is any of' & case - http://newsgroup.xnview.com/viewtopic.php?t=31348
+625: [New] Angle in rotate dialog - http://newsgroup.xnview.com/viewtopic.php?t=31405
+621: [Bug] XMP written in iTXt chunk instead of tEXT chunk - http://newsgroup.xnview.com/viewtopic.php?t=31356
+611: [Bug] Resize dialog must update Height - http://newsgroup.xnview.com/viewtopic.php?t=31350
+613: [Bug] Batch rename extension not changed - http://newsgroup.xnview.com/viewtopic.php?t=31325
+603: [Bug] 8bits+transparency=>24bits - http://newsgroup.xnview.com/viewtopic.php?p=124519
+600: [Bug] Ctrl+c and unicode chars - http://newsgroup.xnview.com/viewtopic.php?t=31269
+586: [New] xnviewmp.exe instead xnview.exe
+552: [New] BPG format - http://newsgroup.xnview.com/viewtopic.php?t=31040
+599: [New] Category from ACDsee - http://newsgroup.xnview.com/viewtopic.php?p=124268
+598: [Bug] Restore data pane - http://newsgroup.xnview.com/viewtopic.php?t=30835
+597: [New] Seconds in capture filename - http://newsgroup.xnview.com/viewtopic.php?t=30898
+596: [New] Title bar info - http://newsgroup.xnview.com/viewtopic.php?t=31003
+595: [New] Open all selected files - http://newsgroup.xnview.com/viewtopic.php?t=19703
+594: [New] RGB channel as greyscale - http://newsgroup.xnview.com/viewtopic.php?t=26106
+591: [New] Crop Width/Height instead of ratio - http://newsgroup.xnview.com/viewtopic.php?t=31244
+590: [Bug] Favorite renaming - http://newsgroup.xnview.com/viewtopic.php?t=31219
+587: [New] Clear filename field in Convert dialog
+415: [Bug] open filelist with spacing - http://newsgroup.xnview.com/viewtopic.php?t=30195
+584: [Bug] Quick search & accent on linux - http://newsgroup.xnview.com/viewtopic.php?t=31225
+583: [New] Import subfolder format - http://newsgroup.xnview.com/viewtopic.php?p=124244
+582: [New] Clear fields in IPTC dialog - http://newsgroup.xnview.com/viewtopic.php?p=124201
+580: [New] PENTAX makernotes
+579: [New] PAM format
+577: [Bug] Keywords import with ':' - http://newsgroup.xnview.com/viewtopic.php?t=31174
+576: [Bug] CR/LF in renamed filename - http://newsgroup.xnview.com/viewtopic.php?t=31165
+571: [Bug] <H1> doesn't work on info
+564: [Bug] Click on name is not 'name (numeric)' - http://newsgroup.xnview.com/viewtopic.php?t=31068
+563: [Bug] webp lossless - http://newsgroup.xnview.com/viewtopic.php?t=31059
+560: [New] QT 5.4.2
+
+Changelog 0.72:
+
+562: [Bug] GeoHack url has changed
+561: [Bug] Set keyword destroys IPTC metadata on JPEG
+559: [Bug] Left/right keys don't work on last tab
+
+Changelog 0.71:
+
+544: [Bug] Keys not working when starting in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=30813
+543: [Bug] High CPU load in browser - http://newsgroup.xnview.com/viewtopic.php?t=31023
+
+Changelog 0.70:
+
+537: [Bug] Start with russian filename
+541: [Bug] Crash when delete folder curently viewed in thumbnails pane
+540: [Bug] Start ing with 16bits file close XnView
+539: [Bug] Fullscreen start crash - http://newsgroup.xnview.com/viewtopic.php?t=28882
+536: [Bug] Shift+Del in browser - http://newsgroup.xnview.com/viewtopic.php?t=30989
+535: [Bug] "Convert into JPEG" ignores format settings - http://newsgroup.xnview.com/viewtopic.php?t=30965
+534: [Bug] Resize dialog problem with pixels/cm
+533: [Bug] No color in "Filename + thumbnails" mode - http://newsgroup.xnview.com/viewtopic.php?t=30964
+532: [New] dcraw updated
+531: [Bug] File listing doesn't support utf8 - http://newsgroup.xnview.com/viewtopic.php?t=30952
+530: [Bug] View crash with little image - http://newsgroup.xnview.com/viewtopic.php?t=30946
+526: [Bug] Can't remove category from folder - http://newsgroup.xnview.com/viewtopic.php?t=30920
+522: [Bug] MacOSX crash on fast select video file or rename
+521: [Bug] Resize dialog & parameters - http://newsgroup.xnview.com/viewtopic.php?t=30900
+520: [Bug] Drag&drop copy action for files on same drive - http://newsgroup.xnview.com/viewtopic.php?t=30875
+494: [TODO] Registration dialog
+518: [Bug] Lossless WEBP - http://newsgroup.xnview.com/viewtopic.php?t=30793
+517: [Bug] Crash at startup if previous viewed file doesn't exist anymore
+515: [Bug] Category & Sets panel - http://newsgroup.xnview.com/viewtopic.php?t=30836.
+511: [Bug] Double click to expand and rename dialog - http://newsgroup.xnview.com/viewtopic.php?t=30831
+509: [Bug] Sort by file date create in view mode - http://newsgroup.xnview.com/viewtopic.php?t=30830
+499: [Bug] PDF unicode filename - http://newsgroup.xnview.com/viewtopic.php?t=30767
+506: [Bug] Shortcuts not working in browser when pressing ENTER in view mode
+
+Changelog 0.69:
+
+492: [New] Category in current folder - http://newsgroup.xnview.com/viewtopic.php?t=30712 
+493: [Bug] Delete on MacOSX - http://newsgroup.xnview.com/viewtopic.php?t=30560 
+490: [New] Filename in statusbar not elided - http://newsgroup.xnview.com/viewtopic.php?t=30717 
+488: [Bug] Watched folders, automatic start - http://newsgroup.xnview.com/viewtopic.php?t=28525 
+489: [Bug] View scrolled after sort - http://newsgroup.xnview.com/viewtopic.php?t=30706 
+487: [Bug] Custom xnview.ini & change DB folder crash
+486: [Bug] Import & sort keywords problem - http://newsgroup.xnview.com/viewtopic.php?t=29514 
+485: [Bug] Setting categories and then moving file - http://newsgroup.xnview.com/viewtopic.php?t=30697 
+484: [Bug] APNG - http://newsgroup.xnview.com/viewtopic.php?t=30700 
+483: [Bug] "aply to image' unchecked - http://newsgroup.xnview.com/viewtopic.php?t=30676 
+481: [New] 'Update files' must write IPTC, EXIF & XMP into xmp sidecar
+480: [Bug] Crash at startup - http://newsgroup.xnview.com/viewtopic.php?t=30555 
+478: [New] Use Catalog term instead of Database (like other apps)
+479: [Bug] Canvas resize as percent in Batch Convert
+426: [Bug] View mode and browser preview - http://newsgroup.xnview.com/viewtopic.php?t=30295 
+477: [Bug] EXIF IOP version - http://newsgroup.xnview.com/viewtopic.php?t=30659 
+476: [Bug] XMP/IPTC keywords not written in TIFF
+475: [Bug] Adjust levels by R, G, B, RGB
+469: [Bug] Problem with IPTC time - http://newsgroup.xnview.com/viewtopic.php?t=30566 
+465: [Bug] Batch convert - '.' as output folder & delete original
+464: [Bug] Batch convert - # can't be used in Text action
+448: [New] Update ZIP32.dll
+449: [New] Update UNZIP32.dll
+450: [New] Update Unrar.dll
+451: [New] Update Exiftools
+375: [New] Category Sets - http://newsgroup.xnview.com/viewtopic.php?t=29977 
+429: [Bug] Rating not saved in TIFF - http://newsgroup.xnview.com/viewtopic.php?t=30331 
+443: [Bug] Category assign - http://newsgroup.xnview.com/viewtopic.php?t=30445 
+442: [Bug] Edit IPTC - Save all doens't refresh category view - http://newsgroup.xnview.com/viewtopic.php?t=30386 
+441: [Bug] Canvas resize doesn't change dpi - http://newsgroup.xnview.com/viewtopic.php?t=30415 
+439: [Bug] Change to 64 colors - http://newsgroup.xnview.com/viewtopic.php?t=30430 
+433: [Bug] Batch convert IPTC bad codec
+432: [Bug] IPTC template v1 - http://newsgroup.xnview.com/viewtopic.php?t=30240 
+431: [Bug] Jpeg quality - http://newsgroup.xnview.com/viewtopic.php?t=30292 
+424: [Bug] Creation date in batch convert - http://newsgroup.xnview.com/viewtopic.php?t=30252 
+412: [New] Category apply to parent - http://newsgroup.xnview.com/viewtopic.php?t=30165 
+397: [Bug] Video problem - http://newsgroup.xnview.com/viewtopic.php?t=30125 
+418: [Bug] Metadata clean update file timestamp - http://newsgroup.xnview.com/viewtopic.php?t=30221 
+420: [Bug] JPEGXR save/load wrong channel - http://newsgroup.xnview.com/viewtopic.php?t=30186 
+405: [Bug] Dark theme on MacOSX - http://newsgroup.xnview.com/viewtopic.php?t=30179 
+416: [New] New DCRAW
+347: [New] WebP settings - http://newsgroup.xnview.com/viewtopic.php?t=29875 
+370: [Bug] Exif casio Makernotes - http://newsgroup.xnview.com/viewtopic.php?t=30039 
+343: [Bug] Crop & exif orientation - http://newsgroup.xnview.com/viewtopic.php?t=29793 
+369: [Bug] IPTC keywords - http://newsgroup.xnview.com/viewtopic.php?t=30003 
+277: [Bug] bad Properties window after delete image file - http://newsgroup.xnview.com/viewtopic.php?t=29265 
+415: [Bug] open filelist with spacing - http://newsgroup.xnview.com/viewtopic.php?t=30195 
+413: [Bug] Crash when displaying Greyscale picture - http://newsgroup.xnview.com/viewtopic.php?t=30158 
+390: [New] Print settings - http://newsgroup.xnview.com/viewtopic.php?t=30129 
+384: [Bug] Video volume - http://newsgroup.xnview.com/viewtopic.php?t=30005 
+406: [Bug] Compare initial layout - http://newsgroup.xnview.com/viewtopic.php?t=30180 
+404: [Bug] Compare crash - http://newsgroup.xnview.com/viewtopic.php?t=30181 
+403: [Bug] XMP-dc:rights tag - http://newsgroup.xnview.com/viewtopic.php?t=28083 
+402: [Bug] Copy dialog history - http://newsgroup.xnview.com/viewtopic.php?p=120193 
+401: [Bug] Cursor capture - http://newsgroup.xnview.com/viewtopic.php?t=30176 
+360: [New] Save as in original folder option - http://newsgroup.xnview.com/viewtopic.php?t=29991 
+353: [New] XMP Iptc4XmpExt display - http://newsgroup.xnview.com/viewtopic.php?t=29776 
+385: [Bug] Shift + Del - http://newsgroup.xnview.com/viewtopic.php?t=30040 
+361: [Bug] Open from windows explorer, can't use keyboard - http://newsgroup.xnview.com/viewtopic.php?t=29996 
+205: [Bug] Enter & focus - http://newsgroup.xnview.com/viewtopic.php?t=29218 
+393: [Bug] Category view width - http://newsgroup.xnview.com/viewtopic.php?t=30153 
+386: [Bug] Copy file location on copy (linux) - http://newsgroup.xnview.com/viewtopic.php?t=30064 
+379: [New] Shortcut in IPTC dialog - http://newsgroup.xnview.com/viewtopic.php?t=29940 
+382: [New] Color label on folder - http://newsgroup.xnview.com/viewtopic.php?t=29981 
+392: [Bug] XCF crash - http://newsgroup.xnview.com/viewtopic.php?t=30155 
+366: [Bug] No format color in detail view - http://newsgroup.xnview.com/viewtopic.php?t=29994 
+367: [Bug] Text position - http://newsgroup.xnview.com/viewtopic.php?t=30032 
+383: [Bug] CtrL+O - http://newsgroup.xnview.com/viewtopic.php?t=29577 
+355: [Bug] Background color - http://newsgroup.xnview.com/viewtopic.php?t=29954 
+391: [Bug] Rating filter (Mac) - http://newsgroup.xnview.com/viewtopic.php?p=120018 
+387: [Bug] PCX loader crash - http://newsgroup.xnview.com/viewtopic.php?t=30055 
+372: [Bug] CMYK profile conversion - http://newsgroup.xnview.com/viewtopic.php?t=30053 
+
+
+Changelog 0.68:
+
+0000352: [Bug] ICC always converted - http://newsgroup.xnview.com/viewtopic.php?t=29899
+
+
+Changelog 0.66:
+
+337: [Bug] Export BW settings - http://newsgroup.xnview.com/viewtopic.php?t=29861
+348: [New] SaveAs last format used - http://newsgroup.xnview.com/viewtopic.php?p=29877
+342: [Bug] Apply category rotate thumbnail - http://newsgroup.xnview.com/viewtopic.php?p=118950
+341: [New] Temperature adjust in view mode - http://newsgroup.xnview.com/viewtopic.php?t=29742
+339: [Bug] Save as folder in view mode - http://newsgroup.xnview.com/viewtopic.php?t=29769
+337: [Bug] Change timestamp & update values - http://newsgroup.xnview.com/viewtopic.php?t=29719
+336: [Bug] Change timestamp & no exif - http://newsgroup.xnview.com/viewtopic.php?t=29755
+335: [Bug] IPTC in TIFF - http://newsgroup.xnview.com/viewtopic.php?p=118806
+334: [New] Larger preview on rename dialog - http://newsgroup.xnview.com/viewtopic.php?t=29676
+332: [New] sqlite 3.8.4.2
+327: [Bug] Webp with quality=98
+326: [Bug] Selection & fullscreen on second monitor
+306: [Bug] IPTC country code - http://newsgroup.xnview.com/viewtopic.php?t=29591
+286: [Bug] Close button - http://newsgroup.xnview.com/viewtopic.php?t=28468
+324: [Bug] // in pathname - http://newsgroup.xnview.com/viewtopic.php?t=29603
+323: [Bug] Create EXIF date - http://newsgroup.xnview.com/viewtopic.php?t=29049
+322: [Bug] NEF files leaks in view mode when quickly use previous/next file
+281: [Bug] Left/right key automatic mode - http://newsgroup.xnview.com/viewtopic.php?t=29506
+314: [Bug] Message when folder doesn't exists - http://newsgroup.xnview.com/viewtopic.php?t=29636
+313: [New] Most used format - http://newsgroup.xnview.com/viewtopic.php?t=29620
+318: [Bug] Command line with "" - http://newsgroup.xnview.com/viewtopic.php?t=29661
+289: [Bug] Maximize state after fullscreen view - http://newsgroup.xnview.com/viewtopic.php?t=29530
+207: [Bug] IPTC Dialog show again - http://newsgroup.xnview.com/viewtopic.php?t=29221
+201: [Bug] Square selection bug - http://newsgroup.xnview.com/viewtopic.php?t=29112
+317: [Bug] 'Rebuild thumbnails' and empty list - http://newsgroup.xnview.com/viewtopic.php?t=29653
+292: [Bug] First file selected - http://newsgroup.xnview.com/viewtopic.php?t=29545
+295: [Bug] Toolbar position - http://newsgroup.xnview.com/viewtopic.php?t=29555
+304: [Bug] ESC & gif viewing - http://newsgroup.xnview.com/viewtopic.php?t=29581
+305: [Bug] Sorting & russian - http://newsgroup.xnview.com/viewtopic.php?t=29594
+307: [Bug] GPS open - http://newsgroup.xnview.com/viewtopic.php?t=29599
+308: [Bug] Ctrl+O missing - http://newsgroup.xnview.com/viewtopic.php?t=29577
+258: [Bug] Move to and selection - http://newsgroup.xnview.com/viewtopic.php?t=29401
+208: [Bug] Backspace for prev file - http://newsgroup.xnview.com/viewtopic.php?t=28387
+205: [Bug] Enter & focus - http://newsgroup.xnview.com/viewtopic.php?t=29218
+310: [Bug] libpng vulnerability - http://newsgroup.xnview.com/viewtopic.php?t=29597
+302: [Bug] Annotation not visible in filter mode - http://newsgroup.xnview.com/viewtopic.php?t=29571
+301: [New] InDesign thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=29491
+129: [New] Support Drag & Drop in Folders Tree
+130: [New] Support Drag & Drop from Folders Tree to Thumbs pane - http://newsgroup.xnview.com/viewtopic.php?t=28297
+077: [Bug] Gamma resizing - http://newsgroup.xnview.com/viewtopic.php?t=25167
+105: [Bug] Empty Folders left after Move operations - http://newsgroup.xnview.com/viewtopic.php?t=28450
+300: [Bug] Enter in detail view - http://newsgroup.xnview.com/viewtopic.php?t=29559
+290: [Bug] File not loaded after drag&drop - http://newsgroup.xnview.com/viewtopic.php?t=29536
+226: [New] Smaller similar dialog - http://newsgroup.xnview.com/viewtopic.php?t=29085
+279: [Bug] ICC convert - http://newsgroup.xnview.com/viewtopic.php?t=29480
+263: [New] Command line parameter - http://newsgroup.xnview.com/viewtopic.php?t=29392
+298: [Bug] Keep Date/time - http://newsgroup.xnview.com/viewtopic.php?t=29237
+277: [Bug] bad Properties window after delete image file - http://newsgroup.xnview.com/viewtopic.php?t=29265
+247: [New] Layout command - http://newsgroup.xnview.com/viewtopic.php?p=117150
+296: [Bug] Search dialog - no delete
+294: [Bug] Translate problem - http://newsgroup.xnview.com/viewtopic.php?t=29548
+272: [Bug] Send Mail & codepage - http://newsgroup.xnview.com/viewtopic.php?t=29396
+274: [New] RegExp in Batch rename>Replace
+275: [New] Rotate in toolbar - http://newsgroup.xnview.com/viewtopic.php?t=29468
+253: [New] Webp 0.4
+249: [New] exiftool update - http://newsgroup.xnview.com/viewtopic.php?t=29378
+273: [Bug] Add text - http://newsgroup.xnview.com/viewtopic.php?t=29440
+291: [Bug] Multi page tiff print crash
+238: [Bug] No rating-label in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=29291
+252: [Bug] Tooltips on tree items - http://newsgroup.xnview.com/viewtopic.php?p=117205
+257: [Bug] Clear missing - http://newsgroup.xnview.com/viewtopic.php?t=28424
+211: [Bug] Rename file - http://newsgroup.xnview.com/viewtopic.php?t=28458
+200: [Bug] Quit compare tab - http://newsgroup.xnview.com/viewtopic.php?t=29206
+019: [Bug] Selection Left/Right + Shift - http://newsgroup.xnview.com/viewtopic.php?t=28461
+241: [Bug] Border line - http://newsgroup.xnview.com/viewtopic.php?t=29203
+192: [Bug] Tabs GUI problems - http://newsgroup.xnview.com/viewtopic.php?t=29201
+191: [New] Relative canvas resize - http://newsgroup.xnview.com/viewtopic.php?p=116368
+189: [Bug] Delete tagged files - http://newsgroup.xnview.com/viewtopic.php?t=29161
+188: [Bug] Round error - http://newsgroup.xnview.com/viewtopic.php?t=29167
+264: [Bug] Icon clickable area - http://newsgroup.xnview.com/viewtopic.php?t=29412
+271: [Bug] * on unsaved - http://newsgroup.xnview.com/viewtopic.php?t=29438
+218: [Bug] Sort by ISO - http://newsgroup.xnview.com/viewtopic.php?t=29231
+285: [Bug] EXIF orient after save - http://newsgroup.xnview.com/viewtopic.php?t=29496
+284: [Bug] Text color of info box (dark theme) - http://newsgroup.xnview.com/viewtopic.php?t=29505
+091: [New] Create multipage
+270: [Bug] Convert into - http://newsgroup.xnview.com/viewtopic.php?t=29442
+269: [Bug] Rating with decimal - http://newsgroup.xnview.com/viewtopic.php?t=29358
+255: [Bug] Export>JpegXR
+254: [Bug] Dock panel not restored if tab view closed
+250: [Bug] XCF compose
+248: [New] Thumbnails DB location - http://newsgroup.xnview.com/viewtopic.php?t=29287
+223: [New] Watermark last folder - http://newsgroup.xnview.com/viewtopic.php?t=29301
+246: [New] Rename dialog - http://newsgroup.xnview.com/viewtopic.php?t=29307
+245: [Bug] Move & create folder cancelled - http://newsgroup.xnview.com/viewtopic.php?t=29281
+244: [Bug] Rename & click outside - http://newsgroup.xnview.com/viewtopic.php?t=29254
+243: [Bug] Move files - http://newsgroup.xnview.com/viewtopic.php?t=29284
+234: [Bug] Batch convert - Re-create folder structure
+233: [Bug] Batch convert {Folder name}
+232: [New] Auto Correct - http://newsgroup.xnview.com/viewtopic.php?t=29193
+081: [New] Auto complete to search categories - http://newsgroup.xnview.com/viewtopic.php?t=28375
+231: [New] Category Sets - http://newsgroup.xnview.com/viewtopic.php?t=27999
+230: [Bug] Median box filter - http://newsgroup.xnview.com/viewtopic.php?t=29352
+228: [Bug] EXIF comment in thumbnail labels
+227: [Bug] Convert Zoom - http://newsgroup.xnview.com/viewtopic.php?t=29327
+222: [Bug] Hasselblad files
+203: [Bug] Switching mode - http://newsgroup.xnview.com/viewtopic.php?t=29207
+220: [Bug] Resize - http://newsgroup.xnview.com/viewtopic.php?t=29272
+215: [Bug] Wildcard in search - http://newsgroup.xnview.com/viewtopic.php?p=116610
+214: [Bug] Fullscreen settings - http://newsgroup.xnview.com/viewtopic.php?t=29259
+204: [Bug] Customize toolbar - http://newsgroup.xnview.com/viewtopic.php?p=116460
+
+Changelog 0.64:
+187: [Bug] 'Cut' missing on linux - http://newsgroup.xnview.com/viewtopic.php?t=29157
+186: [Bug] Linux deb install in sbin - http://newsgroup.xnview.com/viewtopic.php?t=29138
+183: [Bug] Switch mode & Return/Enter - http://newsgroup.xnview.com/viewtopic.php?t=29129
+182: [New] Square selection - http://newsgroup.xnview.com/viewtopic.php?t=29112
+177: [Bug] Capture + save - http://newsgroup.xnview.com/viewtopic.php?t=29117
+176: [Bug] Linux renaming - http://newsgroup.xnview.com/viewtopic.php?t=29131
+175: [New] Reset in Rotate dialog - http://newsgroup.xnview.com/viewtopic.php?t=29118
+174: [Bug] Float percent - http://newsgroup.xnview.com/viewtopic.php?t=29028
+173: [Bug] Up/down key - http://newsgroup.xnview.com/viewtopic.php?t=29073
+172: [New] Switch Tabs - http://newsgroup.xnview.com/viewtopic.php?t=29047
+167: [Bug] Rating&Color disappear - http://newsgroup.xnview.com/viewtopic.php?t=28484
+159: [Bug] The width of the foldername field - http://newsgroup.xnview.com/viewtopic.php?start=15
+162: [Bug] Crop issue - http://newsgroup.xnview.com/viewtopic.php?t=29014
+150: [Bug] How to crash XnViewMP in few seconds - http://newsgroup.xnview.com/viewtopic.php?p=115164
+115: [New] Thumbnail resizing
+164: [New] Free thumbnail size - http://newsgroup.xnview.com/viewtopic.php?t=27022
+161: [New] File Association on linux - http://newsgroup.xnview.com/viewtopic.php?p=115559
+086: [TODO] New JPEG XR
+152: [New] ZIP compression - http://newsgroup.xnview.com/viewtopic.php?t=28966
+151: [Bug] GPS location - http://newsgroup.xnview.com/viewtopic.php?t=28917
+110: [New] Offset grid - http://newsgroup.xnview.com/viewtopic.php?t=28503
+118: [New] Grid line - http://newsgroup.xnview.com/viewtopic.php?t=17557
+146: [TODO] WebP 0.3.1
+148: [TODO] zlib 1.2.8
+147: [TODO] libpng 1.6.6
+154: [TODO] QT 4.8.5
+134: [Bug] Always (Copying...)
+001: [New] Watermark stretched - http://newsgroup.xnview.com/viewtopic.php?t=28699
+126: [New] Import and copy feature
+144: [Bug] Change categories & quit - http://newsgroup.xnview.com/viewtopic.php?t=28921
+143: [Bug] "Properties" don't work on folders - http://newsgroup.xnview.com/viewtopic.php?t=28934
+135: [Bug] Disappearing Checkboxes - with the fix
+117: [Bug] Preset descriptions incorrect - http://newsgroup.xnview.com/viewtopic.php?t=28860
+002: [Bug] On Windows, when dragging a file into folder treeview, use Move by default if same partition
+003: [New] Open in compare window - http://newsgroup.xnview.com/viewtopic.php?t=28304
+004: [Bug] Zoom to selected area - http://newsgroup.xnview.com/viewtopic.php?t=28419
+005: [Bug] Mouse zooming - http://newsgroup.xnview.com/viewtopic.php?t=28321
+006: [Bug] Resize selection - http://newsgroup.xnview.com/viewtopic.php?t=28323
+007: [Bug] Transparent line - http://newsgroup.xnview.com/viewtopic.php?t=28316
+008: [New] Compare, be able to hide some view - http://newsgroup.xnview.com/viewtopic.php?t=28374
+009: [Bug] Batch convert and folder with only subfolder - http://newsgroup.xnview.com/viewtopic.php?t=28383
+010: [Bug] Line in EXIF pane - http://newsgroup.xnview.com/viewtopic.php?t=28359
+011: [New] Pathname or filename in window title - http://newsgroup.xnview.com/viewtopic.php?t=28382
+012: [Bug] Associate tools on Xp hangs - http://newsgroup.xnview.com/viewtopic.php?p=112894
+013: [Bug] Random order quick slideshow - http://newsgroup.xnview.com/viewtopic.php?t=28407
+014: [Bug] Copy path in view mode - http://newsgroup.xnview.com/viewtopic.php?t=28415
+015: [Bug] Save selection - http://newsgroup.xnview.com/viewtopic.php?t=28429
+016: [Bug] 'Select All' doesn't change crop values - http://newsgroup.xnview.com/viewtopic.php?t=28440
+017: [Bug] DB infos get lost with rename in conflict dialog - http://newsgroup.xnview.com/viewtopic.php?t=28457
+018: [Bug] Conflict dialog when rename file - http://newsgroup.xnview.com/viewtopic.php?t=28458
+019: [Bug] Selection Left/Right + Shift - http://newsgroup.xnview.com/viewtopic.php?t=28461
+020: [New] Paste on selected folder - http://newsgroup.xnview.com/viewtopic.php?t=28470
+021: [Bug] 'Filter' not saved
+022: [Bug] No readable file - http://newsgroup.xnview.com/viewtopic.php?t=28444
+023: [Bug] 'Copy To' on a existing folder - http://newsgroup.xnview.com/viewtopic.php?t=28466
+024: [Bug] Pan tool - http://newsgroup.xnview.com/viewtopic.php?t=28492
+025: [Bug] Mouse button - http://newsgroup.xnview.com/viewtopic.php?t=28489
+026: [Bug] Horizontal scrollbar in Category view - http://newsgroup.xnview.com/viewtopic.php?t=28501
+027: [Bug] Time in IPTC/XMP - http://newsgroup.xnview.com/viewtopic.php?p=114812
+028: [Bug] Association - http://newsgroup.xnview.com/viewtopic.php?t=28577
+029: [Bug] Indicator when saving - http://newsgroup.xnview.com/viewtopic.php?t=28536
+030: [New] View mode cursor position in status bar
+031: [Bug] W&B quality - http://newsgroup.xnview.com/viewtopic.php?p=113508
+032: [Bug] Wrong data in information pane - http://newsgroup.xnview.com/viewtopic.php?t=28549
+033: [Bug] Button menu missing - http://newsgroup.xnview.com/viewtopic.php?t=28773
+034: [New] File listing - http://newsgroup.xnview.com/viewtopic.php?t=28698
+035: [Bug] Hidden folder not shown on linux - http://newsgroup.xnview.com/viewtopic.php?t=28724
+036: [Bug] Right-click on folder tree doesn't select - http://newsgroup.xnview.com/viewtopic.php?t=28685
+037: [Bug] 8 bits on linux - http://newsgroup.xnview.com/viewtopic.php?t=28639
+038: [New] IPTC Dialog, load template from XnView - http://newsgroup.xnview.com/viewtopic.php?p=114057
+039: [Bug] Description/comment in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=28690
+040: [New] Sort by filename no numeric
+041: [New] 'remove from all categories' can be removed - http://newsgroup.xnview.com/viewtopic.php?p=113890
+042: [Bug] XMP/ExifTool pane slow with long XMP data - http://newsgroup.xnview.com/viewtopic.php?p=114650
+043: [Bug] Selection in view mode - http://newsgroup.xnview.com/viewtopic.php?t=28637
+044: [New] User filter
+045: [Bug] Capture Active window & Window - http://newsgroup.xnview.com/viewtopic.php?t=28473
+046: [Bug] Filter dialog - http://newsgroup.xnview.com/viewtopic.php?t=28493
+047: [Bug] Browser can't be closed with mouse click - http://newsgroup.xnview.com/viewtopic.php?t=28474
+048: [New] Rating/label shortcut can be modified now - http://newsgroup.xnview.com/viewtopic.php?t=28303
+049: [Bug] JBIG2 - http://newsgroup.xnview.com/viewtopic.php?p=114574
+050: [Bug] Cut - http://newsgroup.xnview.com/viewtopic.php?t=28613
+051: [Bug] IPTC Dialog sort items - http://newsgroup.xnview.com/viewtopic.php?t=28647
+052: [New] Export dialog - http://newsgroup.xnview.com/viewtopic.php?p=114487
+053: [Bug] IPTC dialog resizing - http://newsgroup.xnview.com/viewtopic.php?t=28738
+054: [Bug] Sort by extension - http://newsgroup.xnview.com/viewtopic.php?t=28785
+055: [New] Layout saved now contains thumbnail size
+056: [Bug] Blurred thumbnails - http://newsgroup.xnview.com/viewtopic.php?t=28595
+057: [Bug] Change "EXIF: Date Modified" - http://newsgroup.xnview.com/viewtopic.php?t=28552
+058: [Bug] Crash with large image
+059: [New] Lastest WebP - http://newsgroup.xnview.com/viewtopic.php?t=26215
+060: [Bug] Different issues in batch convert
+061: [Bug] Thumbnail quality if caching is disable - http://newsgroup.xnview.com/viewtopic.php?t=28460
+062: [Bug] Rating menu - http://newsgroup.xnview.com/viewtopic.php?t=28329
+063: [New] Convert in view mode
+064: [Bug] Subfolder can be used in folder field - http://newsgroup.xnview.com/viewtopic.php?t=28641
+065: [Bug] Alpha in thumbnail - http://newsgroup.xnview.com/viewtopic.php?p=113049
+066: [Bug] Windows associations - http://newsgroup.xnview.com/viewtopic.php?t=28282
+067: [Bug] Search crash - http://newsgroup.xnview.com/viewtopic.php?t=28438
+068: [Bug] Comment in search dialog
+069: [Bug] Duplicated comment - http://newsgroup.xnview.com/viewtopic.php?p=113586
+070: [New] Color label string can be edited
+071: [New] XMP in RAW - http://newsgroup.xnview.com/viewtopic.php?t=28600
+072: [Bug] Rebuild thumbnail / Lossless crop - http://newsgroup.xnview.com/viewtopic.php?p=113309
+073: [New] Filters and adjustements use current selected area
+074: [New] Keyboard/mouse settings in Interface pane
+075: [New] Synchronize with files (to reload Metadata)
+127: [Bug] Browse from view mode click - closed.
+
+Changelog v0.61:
+
+* Windows 7/8 association - http://newsgroup.xnview.com/viewtopic.php?t=28282
+* Paste in view mode - http://newsgroup.xnview.com/viewtopic.php?p=112787
+* Restore from maximized state - http://newsgroup.xnview.com/viewtopic.php?start=15
+* Detail view & popup menu - http://newsgroup.xnview.com/viewtopic.php?p=112535
+* exiftool & utf8 - http://newsgroup.xnview.com/viewtopic.php?t=28142
+* histogram in levels - http://newsgroup.xnview.com/viewtopic.php?t=28310
+* rename in view mode - http://newsgroup.xnview.com/viewtopic.php?t=28305
+* Linux, better way to delete files/folders - http://newsgroup.xnview.com/viewtopic.php?p=112555
+* Levels dialog - http://newsgroup.xnview.com/viewtopic.php?t=28310
+* Rating crash - http://newsgroup.xnview.com/viewtopic.php?p=112562
+* XMP/IPTC import problem
+* Crash on Mac 10.6.8
+* Properties - http://newsgroup.xnview.com/viewtopic.php?t=28299
+* Folder thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=28315
+* No more rating menu after drag&drop - http://newsgroup.xnview.com/viewtopic.php?t=28329
+* Shortcut - http://newsgroup.xnview.com/viewtopic.php?t=28325
+* DB category can't not always be changed
+* Bookmark menu crash - http://newsgroup.xnview.com/viewtopic.php?t=28195
+
+
+Changelog v0.60:
+
+* Very slow folder loading
+* Some improvment on database
+* XnView use now 2 databases
+* SQLite 3.7.17
+* 'Save selection as' in crop toolbar
+* Drag&Drop in thumbnail pane - http://newsgroup.xnview.com/viewtopic.php?t=28275
+* Shortcut not changed before next startup
+* Browse with XnViewMP - http://newsgroup.xnview.com/viewtopic.php?p=112353
+* Folder not added in Batch convert - http://newsgroup.xnview.com/viewtopic.php?t=28277
+* Lossless crop - http://newsgroup.xnview.com/viewtopic.php?t=28050
+* When view is closed, folder is changed in browser - http://newsgroup.xnview.com/viewtopic.php?p=112236
+* Drag&Drop into folder tree - http://newsgroup.xnview.com/viewtopic.php?t=28147#p111735
+* No rebuild of thumbnails when you change thumbnail width/height, now use Options>database>width/height
+* Move folder issue - http://newsgroup.xnview.com/viewtopic.php?t=28252
+* Cut folder - http://newsgroup.xnview.com/viewtopic.php?t=28274
+* Crop orientation
+* Compare window layout + copy/move to
+* Cache_size for database can be changed in ini [Start]/dbCacheSize (in KB)
+* Search dialog on rating
+* Copy in clipboard EXIF/IPTC/Properties values
+* File cop/move - http://newsgroup.xnview.com/viewtopic.php?p=112238
+* Crop selection - http://newsgroup.xnview.com/viewtopic.php?t=28144
+* Default settings for histogram - http://newsgroup.xnview.com/viewtopic.php?t=28194
+* Counter-clockwise rotate doenst update exif values - http://newsgroup.xnview.com/viewtopic.php?t=28189
+* Adjustment dialog now use full resolution pictures, you can disable it by adding fullRes=false in the .ini - http://newsgroup.xnview.com/viewtopic.php?p=111760
+* Folder srting - http://newsgroup.xnview.com/viewtopic.php?p=111915
+* some crash on tiff files - http://newsgroup.xnview.com/viewtopic.php?t=28173
+* If lr>hierarchicalSubject doesn't exists, use ms>LastKeywordXMP
+* View information opacity + text opacity - http://newsgroup.xnview.com/viewtopic.php?p=111883
+* delete crash - http://newsgroup.xnview.com/viewtopic.php?t=27799
+* renaming - http://newsgroup.xnview.com/viewtopic.php?t=27396
+* Delete folder on linux use recycle bin - http://newsgroup.xnview.com/viewtopic.php?t=28138
+* Restored size - http://newsgroup.xnview.com/viewtopic.php?p=111741
+* Print - http://newsgroup.xnview.com/viewtopic.php?t=27606
+* Open in explorer - http://newsgroup.xnview.com/viewtopic.php?t=28134
+* long filenamne in view mode - http://newsgroup.xnview.com/viewtopic.php?t=27450
+* Crash drag & drop replace tab - http://newsgroup.xnview.com/viewtopic.php?t=26138#p111675 
+* Selection - http://newsgroup.xnview.com/viewtopic.php?t=27546
+* UTF8 encoding for IPTC - http://newsgroup.xnview.com/viewtopic.php?p=111752
+* IPTC apply all - http://newsgroup.xnview.com/viewtopic.php?t=28158
+* Neutralhazer registration - http://newsgroup.xnview.com/viewtopic.php?t=26912
+
+
+Changelog v0.56:
+
+* UI fix - http://newsgroup.xnview.com/viewtopic.php?t=28117
+* Info not restored in Compare - http://newsgroup.xnview.com/viewtopic.php?t=27988
+* Exiftool & unicode - http://newsgroup.xnview.com/viewtopic.php?t=28056
+* Reset 'message dialog reminders' - http://newsgroup.xnview.com/viewtopic.php?p=111591
+* 'Open in file explorer' in view mode - http://newsgroup.xnview.com/viewtopic.php?t=28116
+* Comment in fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=28002
+* Line in view - http://newsgroup.xnview.com/viewtopic.php?p=105147
+* Gamma not used in exr thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=25499
+* Sometimes on Mac, menu is greyed
+* Copy/Move dialog problems - http://newsgroup.xnview.com/viewtopic.php?t=28007
+* IPTC/XMP encoding - http://newsgroup.xnview.com/viewtopic.php?p=111375
+* Sometimes session is not saved correctly
+* Favorites & subfolder - http://newsgroup.xnview.com/viewtopic.php?t=25936
+* Date not refreshed after 'change timestamp' - http://newsgroup.xnview.com/viewtopic.php?t=27872
+* # in iptc on batch convert - http://newsgroup.xnview.com/viewtopic.php?p=110770
+* Editing must start on click filename - http://newsgroup.xnview.com/viewtopic.php?t=27396
+* Image with big height - http://newsgroup.xnview.com/viewtopic.php?t=27453
+* long filename in statusbar - http://newsgroup.xnview.com/viewtopic.php?t=27450
+* clipboard and quit - http://newsgroup.xnview.com/viewtopic.php?t=27476
+* No metadata printed - http://newsgroup.xnview.com/viewtopic.php?t=27508
+* Clean DB can remove files with categories - http://newsgroup.xnview.com/viewtopic.php?t=27526
+* Tag info not updated - http://newsgroup.xnview.com/viewtopic.php?t=27586
+* Print in view mode - http://newsgroup.xnview.com/viewtopic.php?t=27606
+* JPEG2000 Export
+* Show always selection information - http://newsgroup.xnview.com/viewtopic.php?t=27622
+* Sort by folder - http://newsgroup.xnview.com/viewtopic.php?t=27638
+* Export and extension - http://newsgroup.xnview.com/viewtopic.php?t=27694
+* Ratio - http://newsgroup.xnview.com/viewtopic.php?t=27658
+* Watermark percentage - http://newsgroup.xnview.com/viewtopic.php?t=27726
+* Fullscreen show info - http://newsgroup.xnview.com/viewtopic.php?t=27735
+* Mouse wheel & click on video - http://newsgroup.xnview.com/viewtopic.php?t=27758
+* Hide rating from preview panel - http://newsgroup.xnview.com/viewtopic.php?t=27757
+* Restore from maximized state - http://newsgroup.xnview.com/viewtopic.php?t=26172
+* Cache>Add folder - http://newsgroup.xnview.com/viewtopic.php?t=27594
+* Message if file can't be found or loaded - http://newsgroup.xnview.com/viewtopic.php?t=27675
+* Capture and shortcut - http://newsgroup.xnview.com/viewtopic.php?t=27284
+* Change timestamp can create EXIF date - http://newsgroup.xnview.com/viewtopic.php?p=109303
+* Band in batch convert
+* about dialog - http://newsgroup.xnview.com/viewtopic.php?t=27785
+* PDF not working on MAC - http://newsgroup.xnview.com/viewtopic.php?t=26156
+* ICC profile - http://newsgroup.xnview.com/viewtopic.php?t=27913
+* settings for scroll thumbnail - http://newsgroup.xnview.com/viewtopic.php?t=26315
+
+
+Changelog v0.53:
+
+* Slow refresh/move
+* Delete file is slow
+* folder name & custom label - http://newsgroup.xnview.com/viewtopic.php?t=24050
+* PCD setting - http://newsgroup.xnview.com/viewtopic.php?p=104195
+* Sort by comment must use description too - http://newsgroup.xnview.com/viewtopic.php?t=26054
+* shortcut not displayed after a refresh - http://newsgroup.xnview.com/viewtopic.php?t=26088
+* background visible for empty information text - http://newsgroup.xnview.com/viewtopic.php?p=104823
+* hide menu bar in xnview.ini General/hideMenuBar - http://newsgroup.xnview.com/viewtopic.php?p=104567
+* ICO/GIF 1 bit & transparency - http://newsgroup.xnview.com/viewtopic.php?t=26111
+* original quality & subsampling information - http://newsgroup.xnview.com/viewtopic.php?t=26213
+* Previous picture shown after delete - http://newsgroup.xnview.com/viewtopic.php?t=26216
+* ESC to quit - http://newsgroup.xnview.com/viewtopic.php?t=26143
+* Thumbnails refresh & 'create whole folder' not checked - http://newsgroup.xnview.com/viewtopic.php?p=106819
+* double clicking in folder tree open subfolder - http://newsgroup.xnview.com/viewtopic.php?t=26288
+* custom order not kept after settings dialog - http://newsgroup.xnview.com/viewtopic.php?t=26289
+* low resolution icon on windows - http://newsgroup.xnview.com/viewtopic.php?t=26284
+* ICC problem - http://newsgroup.xnview.com/viewtopic.php?p=106845
+* Items count in status bar - http://newsgroup.xnview.com/viewtopic.php?t=26278
+* folder with default icon after drag&drop - http://newsgroup.xnview.com/viewtopic.php?t=26302
+* no 'create thumb for whole folder' & new files - http://newsgroup.xnview.com/viewtopic.php?t=26330
+* JPEG arithmetic decoding support - http://newsgroup.xnview.com/viewtopic.php?p=105449
+* Reset XY - http://newsgroup.xnview.com/viewtopic.php?t=26398
+* focus on list at startup - http://newsgroup.xnview.com/viewtopic.php?t=26553
+* invert orientation of selection -http://newsgroup.xnview.com/viewtopic.php?t=26741
+* folder's thumbnail & EXIF orientation - http://newsgroup.xnview.com/viewtopic.php?t=26747
+* Import keywords problem - http://newsgroup.xnview.com/viewtopic.php?p=106186
+* XMP-photoshop:Location not more written - http://newsgroup.xnview.com/viewtopic.php?t=26174
+* 8bf 64bits plugin can be used with XnViewMP 64bits version - http://newsgroup.xnview.com/viewtopic.php?t=26791
+* Shift+Del on windows - http://newsgroup.xnview.com/viewtopic.php?t=25879
+* Next/prev & video file - http://newsgroup.xnview.com/viewtopic.php?t=25953
+* Remove from category/Remove from all categories
+* double click & video - http://newsgroup.xnview.com/viewtopic.php?t=26002
+* Max view tabs - http://newsgroup.xnview.com/viewtopic.php?t=26010
+* RegExp in Search - http://newsgroup.xnview.com/viewtopic.php?p=104598
+* floating dock widget & fullscreen - http://newsgroup.xnview.com/viewtopic.php?t=25856
+* remember item selection in information panel - http://newsgroup.xnview.com/viewtopic.php?p=106938
+* Histogram doesn't fit width in compare dialog
+* Batch convert: Watermark, stretch image - http://newsgroup.xnview.com/viewtopic.php?p=107478
+* Rating not readed by windows explorer

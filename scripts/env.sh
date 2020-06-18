@@ -16,5 +16,17 @@ if [ ! -d "$DFL_WORKSPACE" ]; then
     mkdir "$DFL_WORKSPACE/model"
 fi
 
+
 export DFL_ROOT="./"
 export DFL_SRC="./DeepFaceLab"
+
+
+# set plugin path for QT, otherwise, the program may be terminated unexpectedly
+tmp=`which python`
+tmpPath=`dirname $(dirname $tmp) `/envs/deepfacelab/lib/python3.6/site-packages/PyQt5/Qt/plugins
+export QT_QPA_PLATFORM_PLUGIN_PATH=$tmpPath
+#echo $QT_QPA_PLATFORM_PLUGIN_PATH
+export QT_DEBUG_PLUGINS="1"  # if the program may be terminated unexpectedly, it will output detailed debug info
+
+
+export XNVIEWMP_PATH="XnView"
